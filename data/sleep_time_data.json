@@ -1,0 +1,421 @@
+{
+    "data": [
+        {
+            "id": "4515a2b6-9938-4a3b-af6e-b9e485153624",
+            "day": "2024-07-20",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "4311efca-d2ed-4f53-86de-9f24caeedd33",
+            "day": "2024-07-29",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "5bb622fa-58fc-470f-849f-6a94218c6061",
+            "day": "2024-07-30",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "bd25a463-e741-4d9f-b87e-cd9f31863c8d",
+            "day": "2024-08-01",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "8a06986d-a6c9-4139-9478-c28e2f54e25a",
+            "day": "2024-08-02",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "3ae491e3-689f-429c-a40d-5384221a82e1",
+            "day": "2024-08-05",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "7fa7fd34-37db-4c06-a367-1f0d112a1d86",
+            "day": "2024-08-07",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "7141aa08-646e-4434-b70e-976b1d35d0ac",
+            "day": "2024-08-08",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "17d803f1-0b61-4e7d-a18b-4aaa72e31d86",
+            "day": "2024-08-13",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "827eaec7-3b66-465c-b5ea-8672c8488223",
+            "day": "2024-08-16",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "6dc1a916-39b9-4311-8ecc-af914cc1e77d",
+            "day": "2024-08-18",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "6f3a49f7-d09d-4711-b9d5-15c4bb5f8c77",
+            "day": "2024-08-19",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "fac265b2-8260-4f41-a453-156e5734575d",
+            "day": "2024-08-21",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "604d0834-47bd-47aa-ad0c-81ab86a6c8d4",
+            "day": "2024-08-23",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "ece57f85-1f05-473b-bf4e-8ecce37c6438",
+            "day": "2024-08-25",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "dd7e39e3-a71c-4131-b4c4-ad29d17c1885",
+            "day": "2024-08-30",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "63bb3f3f-eafc-4644-b466-916ce4b25efc",
+            "day": "2024-09-08",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "2dbb08c6-6427-4763-8d94-c22bbca3070d",
+            "day": "2024-09-11",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "61957ef0-cc55-4e93-9fd0-7f41cbf3b12e",
+            "day": "2024-09-14",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "ec6172c3-45e7-4f70-af41-ac07a8ddf1cf",
+            "day": "2024-09-17",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "e18328a3-6d2f-4195-bb68-524e91d18846",
+            "day": "2024-09-21",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "22fe81ba-7a14-44d8-8d18-f428e0c683af",
+            "day": "2024-09-30",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "b0deb23d-d85d-4e3f-990a-43f73f2b7b7f",
+            "day": "2024-10-01",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "95987f39-45c7-4c96-b05d-ef4cbbb9ae6f",
+            "day": "2024-10-04",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "4b565fe3-5778-4fd7-b51c-f1979859f6a7",
+            "day": "2024-10-08",
+            "optimal_bedtime": {
+                "day_tz": -25200,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "634bcfde-af56-48cc-8e6e-d36b93f05426",
+            "day": "2024-10-10",
+            "optimal_bedtime": {
+                "day_tz": -25200,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "63890998-9b0a-4b25-8db7-7f2cb25fca1c",
+            "day": "2024-10-13",
+            "optimal_bedtime": {
+                "day_tz": 7200,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "1886ef88-445e-4bbb-8b3a-68ece6743ad9",
+            "day": "2024-10-20",
+            "optimal_bedtime": {
+                "day_tz": 7200,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "4a73aa01-3765-4269-8dd1-8fbb8f3b2a0f",
+            "day": "2024-10-23",
+            "optimal_bedtime": {
+                "day_tz": 7200,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "e8439fcd-4d0f-489d-acb6-1d9d2e155c13",
+            "day": "2024-10-24",
+            "optimal_bedtime": {
+                "day_tz": 3600,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "2dfea1ad-d066-422c-a9bb-ae2d30b43bfe",
+            "day": "2024-10-27",
+            "optimal_bedtime": {
+                "day_tz": 3600,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "67e5137b-3bc3-4635-a609-0de6fe026b28",
+            "day": "2024-10-31",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "1c6822ed-e241-4a09-8b40-d335a03f710a",
+            "day": "2024-11-09",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "60973bff-6ff5-49ad-97f4-63f84e2c9f75",
+            "day": "2024-11-10",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "f766489a-8fdf-4235-b72e-2ce99a2288c9",
+            "day": "2024-11-11",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "1ba12fee-c563-437e-a611-7898156ee09a",
+            "day": "2024-11-13",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -6300
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "10f36a48-e333-4084-9f62-b2cc6a88e045",
+            "day": "2024-11-15",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -5400
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "b4149e90-3c44-40f0-ab66-d66448692176",
+            "day": "2024-11-17",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -5400
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "d91e692c-8e07-4f81-bcb3-cecdd0bcd214",
+            "day": "2024-11-18",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -5400
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "dd71d377-dce0-46df-a101-e7f884ede8e8",
+            "day": "2024-11-21",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "15f12ff3-5b3f-41c2-aa8c-a1713e037595",
+            "day": "2024-11-24",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "00b50424-dbff-46e3-869e-af8355a2faec",
+            "day": "2024-11-29",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "0960e7e1-4698-485c-b1dd-b6f397e60ced",
+            "day": "2024-12-04",
+            "optimal_bedtime": null,
+            "recommendation": "earlier_bedtime",
+            "status": "only_recommended_found"
+        },
+        {
+            "id": "bf01c66a-13db-48bb-b207-8bf22ae7b86c",
+            "day": "2024-12-07",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -4500
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "329988d6-a257-42e4-9dcc-bc939b3753ae",
+            "day": "2024-12-10",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -4500
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "f8115a67-3dd9-445e-8c03-62fd8f2f618f",
+            "day": "2024-12-11",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -4500
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "541378cf-29ff-4541-a80c-ec9ed8b60994",
+            "day": "2024-12-16",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -4500
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        },
+        {
+            "id": "143219f4-2e3f-4d5a-ba06-e676f1690b4e",
+            "day": "2024-12-18",
+            "optimal_bedtime": {
+                "day_tz": -28800,
+                "end_offset": -1800,
+                "start_offset": -4500
+            },
+            "recommendation": "follow_optimal_bedtime",
+            "status": "optimal_found"
+        }
+    ],
+    "next_token": null
+}
