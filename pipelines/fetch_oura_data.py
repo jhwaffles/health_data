@@ -1,7 +1,13 @@
-#RI5AME4LXHS66A2UWLEXGEIDEYMD2M35
 import requests
 import json
-ACCESS_TOKEN = "RI5AME4LXHS66A2UWLEXGEIDEYMD2M35"
+import os
+current_dir = os.getcwd()
+parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
+data_dir = os.path.abspath(os.path.join(parent_dir, 'source_data'))
+
+token_path = os.path.join(data_dir, 'oura_token.txt')
+with open(token_path, 'r') as f:
+    ACCESS_TOKEN = f.read().strip()
 BASE_URL = "https://api.ouraring.com/v2/usercollection/"
 
 def fetch_oura_data(endpoint, params=None):
@@ -12,6 +18,7 @@ def fetch_oura_data(endpoint, params=None):
         response = requests.get(BASE_URL + endpoint, headers=headers, params=params)
         response.raise_for_status()  # Raise an HTTPError for bad responses
         return response.json()
+    
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
         return None
