@@ -1,170 +1,186 @@
-import requests
+import argparse
 import json
 import os
-current_dir = os.getcwd()
-parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
-data_dir = os.path.abspath(os.path.join(parent_dir, 'source_data'))
+from datetime import date
 
-token_path = os.path.join(data_dir, 'oura_token.txt')
-with open(token_path, 'r') as f:
-    ACCESS_TOKEN = f.read().strip()
+import requests
+
+from oura_auth import get_access_token
+
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SOURCE_DIR = os.path.join(REPO_ROOT, "source_data")
 BASE_URL = "https://api.ouraring.com/v2/usercollection/"
 
-def fetch_oura_data(endpoint, params=None):
-    headers = {
-        "Authorization": f"Bearer {ACCESS_TOKEN}"
-    }
+DEFAULT_START_DATE = "2024-01-01"
+
+
+def fetch_oura_data(endpoint, params=None, access_token=None):
+    headers = {"Authorization": f"Bearer {access_token or get_access_token()}"}
+    query = dict(params or {})
+    records = []
+    next_token = None
+
     try:
-        response = requests.get(BASE_URL + endpoint, headers=headers, params=params)
-        response.raise_for_status()  # Raise an HTTPError for bad responses
-        return response.json()
-    
+        while True:
+            if next_token:
+                query["next_token"] = next_token
+            else:
+                query.pop("next_token", None)
+            response = requests.get(
+                BASE_URL + endpoint, headers=headers, params=query, timeout=60
+            )
+            if response.status_code == 401:
+                headers["Authorization"] = f"Bearer {get_access_token(force_login=False)}"
+                response = requests.get(
+                    BASE_URL + endpoint, headers=headers, params=query, timeout=60
+                )
+            if not response.ok:
+                print(f"HTTP {response.status_code} for {endpoint}: {response.text}")
+            response.raise_for_status()
+            payload = response.json()
+            records.extend(payload.get("data", []))
+            next_token = payload.get("next_token")
+            if not next_token:
+                extra = {k: v for k, v in payload.items() if k != "data"}
+                extra["data"] = records
+                extra["next_token"] = None
+                return extra
     except requests.exceptions.RequestException as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred fetching {endpoint}: {e}")
         return None
-    
-def fetch_oura_data_single(endpoint, doc_id, params=None):
-    headers = {
-        "Authorization": f"Bearer {ACCESS_TOKEN}"
-    }
+
+
+def fetch_oura_data_single(endpoint, doc_id, params=None, access_token=None):
+    headers = {"Authorization": f"Bearer {access_token or get_access_token()}"}
     try:
-        passed_url=BASE_URL + endpoint + "/" + doc_id
+        passed_url = BASE_URL + endpoint + "/" + doc_id
         print(passed_url)
-        response = requests.get(passed_url, headers=headers, params=params)
-        response.raise_for_status()  # Raise an HTTPError for bad responses
+        response = requests.get(passed_url, headers=headers, params=params, timeout=60)
+        response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
         return None
-    
 
-# Example: Fetch sleep data
-def fetch_sleep_data(start_date, end_date):  #Sleep Routes Mulitiple. Detailed Data.
-    endpoint = "sleep"
-    params = {
-        "start_date": start_date,
-        "end_date": end_date
-    }
-    return fetch_oura_data(endpoint, params)
 
-def fetch_daily_sleep_data(start_date, end_date):  #Daily Sleep Routes Multiple. Summarized Data.
-    endpoint = "daily_sleep"
-    params = {
-        "start_date": start_date,
-        "end_date": end_date
-    }
-    return fetch_oura_data(endpoint, params)
+def fetch_sleep_data(start_date, end_date, access_token=None):
+    return fetch_oura_data(
+        "sleep",
+        {"start_date": start_date, "end_date": end_date},
+        access_token=access_token,
+    )
 
-def fetch_sleep_single_data(doc_id):  #sleep routes single
-    endpoint = "sleep"
-    return fetch_oura_data_single(endpoint, doc_id)
 
-def fetch_sleep_time_data(start_date, end_date):  #Summarized Sleep Time Data.
-    endpoint = "sleep_time"
-    params = {
-        "start_date": start_date,
-        "end_date": end_date
-    }
-    return fetch_oura_data(endpoint, params)
+def fetch_daily_sleep_data(start_date, end_date, access_token=None):
+    return fetch_oura_data(
+        "daily_sleep",
+        {"start_date": start_date, "end_date": end_date},
+        access_token=access_token,
+    )
 
-# Example: Fetch activity data
-def fetch_activity_data(start_date, end_date):  #Daily Activity Routes (Multiiple)
-    endpoint = "daily_activity"
-    params = {
-        "start_date": start_date,
-        "end_date": end_date
-    }
-    return fetch_oura_data(endpoint, params)
 
-# Example: Fetch readiness data
-def fetch_readiness_data(start_date, end_date): #Daily Readiness Routes (Multiple)
-    endpoint = "daily_readiness"
-    params = {
-        "start_date": start_date,
-        "end_date": end_date
-    }
-    return fetch_oura_data(endpoint, params)
+def fetch_sleep_single_data(doc_id, access_token=None):
+    return fetch_oura_data_single("sleep", doc_id, access_token=access_token)
 
-def fetch_resilience_data(start_date, end_date): #Daily Resilience Routes (Multiple)
-    endpoint = "daily_resilience"
-    params = {
-        "start_date": start_date,
-        "end_date": end_date
-    }
-    return fetch_oura_data(endpoint, params)
 
-def fetch_spo2_data(start_date, end_date): #Daily Spo2 Routes (Multiple)
-    endpoint = "daily_spo2"
-    params = {
-        "start_date": start_date,
-        "end_date": end_date
-    }
-    return fetch_oura_data(endpoint, params)
+def fetch_sleep_time_data(start_date, end_date, access_token=None):
+    return fetch_oura_data(
+        "sleep_time",
+        {"start_date": start_date, "end_date": end_date},
+        access_token=access_token,
+    )
 
-def fetch_stress_data(start_date, end_date): #Daily Stress Routes (Multiple)
-    endpoint = "daily_stress"
-    params = {
-        "start_date": start_date,
-        "end_date": end_date
-    }
-    return fetch_oura_data(endpoint, params)
+
+def fetch_activity_data(start_date, end_date, access_token=None):
+    return fetch_oura_data(
+        "daily_activity",
+        {"start_date": start_date, "end_date": end_date},
+        access_token=access_token,
+    )
+
+
+def fetch_readiness_data(start_date, end_date, access_token=None):
+    return fetch_oura_data(
+        "daily_readiness",
+        {"start_date": start_date, "end_date": end_date},
+        access_token=access_token,
+    )
+
+
+def fetch_resilience_data(start_date, end_date, access_token=None):
+    return fetch_oura_data(
+        "daily_resilience",
+        {"start_date": start_date, "end_date": end_date},
+        access_token=access_token,
+    )
+
+
+def fetch_spo2_data(start_date, end_date, access_token=None):
+    return fetch_oura_data(
+        "daily_spo2",
+        {"start_date": start_date, "end_date": end_date},
+        access_token=access_token,
+    )
+
+
+def fetch_stress_data(start_date, end_date, access_token=None):
+    return fetch_oura_data(
+        "daily_stress",
+        {"start_date": start_date, "end_date": end_date},
+        access_token=access_token,
+    )
+
 
 def save_to_json_file(data, filename):
+    os.makedirs(SOURCE_DIR, exist_ok=True)
+    path = filename if os.path.isabs(filename) else os.path.join(SOURCE_DIR, filename)
     try:
-        with open(filename, "w") as json_file:
+        with open(path, "w") as json_file:
             json.dump(data, json_file, indent=4)
-        print(f"Data successfully saved to {filename}")
+        print(f"Data successfully saved to {path}")
     except Exception as e:
         print(f"An error occurred while saving the file: {e}")
 
-# Main function to test the API connection
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Fetch Oura data into source_data/")
+    parser.add_argument("--start", default=DEFAULT_START_DATE, help="Start date YYYY-MM-DD")
+    parser.add_argument("--end", default=date.today().isoformat(), help="End date YYYY-MM-DD")
+    parser.add_argument("--login", action="store_true", help="Force a new Oura browser login")
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
-    # Define the date range (format: YYYY-MM-DD)
-    start_date = "2024-01-01"
-    end_date = "2025-01-25"
+    args = parse_args()
+    token = get_access_token(force_login=args.login)
+    start_date = args.start
+    end_date = args.end
 
-    print("Fetching sleep data...")
-    sleep_data = fetch_sleep_data(start_date, end_date)
-    if sleep_data:
-        save_to_json_file(sleep_data, "sleep_data.json")
+    probe = requests.get(
+        BASE_URL + "personal_info",
+        headers={"Authorization": f"Bearer {token}"},
+        timeout=30,
+    )
+    print(f"personal_info check: HTTP {probe.status_code} {probe.text[:500]}")
+    if probe.status_code == 403:
+        print(
+            "Oura accepted the token but blocked data. Enable every data scope on "
+            "https://cloud.ouraring.com/oauth/applications then rerun with --login, "
+            "or renew the Oura membership if it is expired."
+        )
 
-    print("Fetching daily sleep data...")
-    daily_sleep_data = fetch_daily_sleep_data(start_date, end_date)
-    if daily_sleep_data:
-        save_to_json_file(daily_sleep_data, "daily_sleep_data.json")
+    pulls = [
+        ("sleep data", fetch_sleep_data, "sleep_data.json"),
+        ("daily sleep data", fetch_daily_sleep_data, "daily_sleep_data.json"),
+        ("activity data", fetch_activity_data, "activity_data.json"),
+        ("readiness data", fetch_readiness_data, "readiness_data.json"),
+        ("resilience data", fetch_resilience_data, "resilience_data.json"),
+        ("spo2 data", fetch_spo2_data, "spo2_data.json"),
+        ("stress data", fetch_stress_data, "stress_data.json"),
+    ]
 
-    # doc_id="b626985c-1c32-4a42-87bd-37db9bb101e3"
-    # print("Fetching single sleep data...")
-    # single_sleep_data = fetch_sleep_single_data(doc_id)
-    # if single_sleep_data:
-    #     save_to_json_file(single_sleep_data, "single_sleep_data.json")
-
-    # print("Fetching sleep time data...")
-    # sleep_time_data = fetch_sleep_time_data(start_date, end_date)
-    # if sleep_time_data:
-    #     save_to_json_file(sleep_time_data, "sleep_time_data.json")
-
-    print("\nFetching activity data...")
-    activity_data = fetch_activity_data(start_date, end_date)
-    if activity_data:
-        save_to_json_file(activity_data, "activity_data.json")
-
-    print("\nFetching readiness data...")
-    readiness_data = fetch_readiness_data(start_date, end_date)
-    if readiness_data:
-        save_to_json_file(readiness_data, "readiness_data.json")
-
-    print("\nFetching resilience data...")
-    resilience_data = fetch_resilience_data(start_date, end_date)
-    if resilience_data:
-        save_to_json_file(resilience_data, "resilience_data.json")
-
-    print("\nFetching spo2 data...")
-    spo2_data = fetch_spo2_data(start_date, end_date)
-    if spo2_data:
-        save_to_json_file(spo2_data, "spo2_data.json")
-
-    print("\nFetching stress data...")
-    stress_data = fetch_stress_data(start_date, end_date)
-    if stress_data:
-        save_to_json_file(stress_data, "stress_data.json")
+    for label, fetcher, filename in pulls:
+        print(f"\nFetching {label}...")
+        payload = fetcher(start_date, end_date, access_token=token)
+        if payload:
+            save_to_json_file(payload, filename)

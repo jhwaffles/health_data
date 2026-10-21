@@ -1,0 +1,4615 @@
+{
+    "next_token": null,
+    "data": [
+        {
+            "id": "cccf18e8-b1e2-44a5-ac37-c1b462ab51a4",
+            "day": "2025-02-19",
+            "contributors": {
+                "sleep_recovery": 72.5,
+                "daytime_recovery": 66.2,
+                "stress": 44.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "c4ab464e-d00f-4dfd-b9ce-0cb750e4d791",
+            "day": "2025-03-01",
+            "contributors": {
+                "sleep_recovery": 55.3,
+                "daytime_recovery": 45.5,
+                "stress": 73.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "e647ddce-75e6-408d-a886-05529217747d",
+            "day": "2025-03-02",
+            "contributors": {
+                "sleep_recovery": 49.6,
+                "daytime_recovery": 42.1,
+                "stress": 71.5
+            },
+            "level": "solid"
+        },
+        {
+            "id": "6209c038-e384-4fcd-954e-4f555a40769d",
+            "day": "2025-03-03",
+            "contributors": {
+                "sleep_recovery": 56.0,
+                "daytime_recovery": 46.1,
+                "stress": 72.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "a63b96ca-e032-43ee-a1ee-41e20f2e6c4d",
+            "day": "2025-03-04",
+            "contributors": {
+                "sleep_recovery": 56.0,
+                "daytime_recovery": 46.0,
+                "stress": 72.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "0ee38718-8ebe-4151-9e59-3e014c52a732",
+            "day": "2025-03-05",
+            "contributors": {
+                "sleep_recovery": 58.2,
+                "daytime_recovery": 47.3,
+                "stress": 73.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "d3ced5c4-9baa-433b-898b-4a1728010768",
+            "day": "2025-03-06",
+            "contributors": {
+                "sleep_recovery": 58.2,
+                "daytime_recovery": 47.4,
+                "stress": 73.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "e4c92127-9fb7-4791-b4e4-9e77bafaef7b",
+            "day": "2025-03-07",
+            "contributors": {
+                "sleep_recovery": 61.8,
+                "daytime_recovery": 51.7,
+                "stress": 66.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "ab7c6da4-6178-47d7-9f9c-96d30a6e5855",
+            "day": "2025-03-08",
+            "contributors": {
+                "sleep_recovery": 61.1,
+                "daytime_recovery": 52.5,
+                "stress": 61.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3a0ab97f-557c-4119-a7a6-7f301dc17376",
+            "day": "2025-03-09",
+            "contributors": {
+                "sleep_recovery": 61.6,
+                "daytime_recovery": 54.3,
+                "stress": 56.8
+            },
+            "level": "strong"
+        },
+        {
+            "id": "88a5ecc5-370b-4e2d-aef7-3c56ce3def36",
+            "day": "2025-03-10",
+            "contributors": {
+                "sleep_recovery": 62.7,
+                "daytime_recovery": 55.6,
+                "stress": 55.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "1b4f0a1a-6d49-41ad-b89a-ca0103f1147b",
+            "day": "2025-03-11",
+            "contributors": {
+                "sleep_recovery": 60.3,
+                "daytime_recovery": 54.2,
+                "stress": 54.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "401dede3-821c-4fc8-9ca8-fac1f07d43b1",
+            "day": "2025-03-12",
+            "contributors": {
+                "sleep_recovery": 60.5,
+                "daytime_recovery": 56.2,
+                "stress": 49.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "2b85ba89-2d74-41c6-8c15-387eddfafe25",
+            "day": "2025-03-13",
+            "contributors": {
+                "sleep_recovery": 63.7,
+                "daytime_recovery": 59.3,
+                "stress": 46.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3ae5e793-04bd-4e7d-b1f8-f08a6a5d79dc",
+            "day": "2025-03-14",
+            "contributors": {
+                "sleep_recovery": 64.5,
+                "daytime_recovery": 60.6,
+                "stress": 43.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "de29db3c-7c1c-498c-9a9d-6b293ad65481",
+            "day": "2025-03-15",
+            "contributors": {
+                "sleep_recovery": 66.8,
+                "daytime_recovery": 63.4,
+                "stress": 40.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "f577db4d-93fd-4f0b-a9f1-c92e1afd151e",
+            "day": "2025-03-16",
+            "contributors": {
+                "sleep_recovery": 70.6,
+                "daytime_recovery": 65.0,
+                "stress": 43.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "6fa78db7-4a8c-4a82-9b23-4b87bb043ebb",
+            "day": "2025-03-17",
+            "contributors": {
+                "sleep_recovery": 67.3,
+                "daytime_recovery": 62.5,
+                "stress": 44.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "f99b50ae-dce5-400c-b50b-ff7e06a72aa5",
+            "day": "2025-03-18",
+            "contributors": {
+                "sleep_recovery": 70.5,
+                "daytime_recovery": 64.1,
+                "stress": 46.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "f7e5e088-b9d7-4c42-a3ad-cd486026f2c5",
+            "day": "2025-03-19",
+            "contributors": {
+                "sleep_recovery": 70.2,
+                "daytime_recovery": 63.8,
+                "stress": 47.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "0a90075a-8e7b-4ff0-b8e8-2961ea588f2f",
+            "day": "2025-03-20",
+            "contributors": {
+                "sleep_recovery": 72.8,
+                "daytime_recovery": 66.3,
+                "stress": 45.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "5e51d89b-6155-4f4b-80c9-7205217200a8",
+            "day": "2025-03-21",
+            "contributors": {
+                "sleep_recovery": 73.0,
+                "daytime_recovery": 64.9,
+                "stress": 50.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "a6cbff3d-8c28-470e-8fbb-26bb3f09310d",
+            "day": "2025-03-22",
+            "contributors": {
+                "sleep_recovery": 74.0,
+                "daytime_recovery": 64.9,
+                "stress": 52.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "d6999b41-8aad-4180-aa2e-8836254a6d6c",
+            "day": "2025-03-23",
+            "contributors": {
+                "sleep_recovery": 75.0,
+                "daytime_recovery": 64.2,
+                "stress": 56.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "901a7a19-c3a8-4b53-991b-0f48d6e49408",
+            "day": "2025-03-24",
+            "contributors": {
+                "sleep_recovery": 73.5,
+                "daytime_recovery": 63.0,
+                "stress": 57.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "e6a6ab46-663a-4b3c-8381-9e0edd5476cc",
+            "day": "2025-03-25",
+            "contributors": {
+                "sleep_recovery": 77.2,
+                "daytime_recovery": 64.9,
+                "stress": 59.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "7161d79f-ea78-45df-8cd2-79b83b3fa1e1",
+            "day": "2025-03-26",
+            "contributors": {
+                "sleep_recovery": 77.5,
+                "daytime_recovery": 64.0,
+                "stress": 62.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "e5265fcb-10fb-48c6-af1b-3b1b4460a92f",
+            "day": "2025-03-28",
+            "contributors": {
+                "sleep_recovery": 77.3,
+                "daytime_recovery": 63.0,
+                "stress": 65.7
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "0bff9800-2f6a-44a1-905c-152d73db0778",
+            "day": "2025-03-29",
+            "contributors": {
+                "sleep_recovery": 74.4,
+                "daytime_recovery": 60.1,
+                "stress": 68.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "16b2e6f7-9b93-4e13-ac48-d3e30bd34500",
+            "day": "2025-03-30",
+            "contributors": {
+                "sleep_recovery": 72.7,
+                "daytime_recovery": 58.5,
+                "stress": 69.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "c2570cd2-92cd-4d7d-a4e3-d3ded5a01015",
+            "day": "2025-03-31",
+            "contributors": {
+                "sleep_recovery": 70.6,
+                "daytime_recovery": 56.7,
+                "stress": 70.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "9f4b462f-9fcb-4d98-8db5-c085b4a694d2",
+            "day": "2025-04-01",
+            "contributors": {
+                "sleep_recovery": 64.6,
+                "daytime_recovery": 52.0,
+                "stress": 71.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "4e1420d5-8769-4ea6-b341-3d4491d8792f",
+            "day": "2025-04-02",
+            "contributors": {
+                "sleep_recovery": 64.4,
+                "daytime_recovery": 51.9,
+                "stress": 72.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "0dc3f4bf-1db6-4ae5-9e30-89e13f2de6ab",
+            "day": "2025-04-03",
+            "contributors": {
+                "sleep_recovery": 58.8,
+                "daytime_recovery": 47.0,
+                "stress": 75.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "f5064dca-58e8-46e8-a8c2-491952f58010",
+            "day": "2025-04-04",
+            "contributors": {
+                "sleep_recovery": 57.5,
+                "daytime_recovery": 46.3,
+                "stress": 74.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "a9c524ab-114b-4847-9f42-753cd7f88812",
+            "day": "2025-04-05",
+            "contributors": {
+                "sleep_recovery": 53.7,
+                "daytime_recovery": 43.0,
+                "stress": 76.5
+            },
+            "level": "solid"
+        },
+        {
+            "id": "3be9d3d2-09cb-4e3f-bffe-338e3c0140fd",
+            "day": "2025-04-06",
+            "contributors": {
+                "sleep_recovery": 48.2,
+                "daytime_recovery": 39.8,
+                "stress": 74.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "605c7abe-7b58-4701-abd2-5daf3d203e94",
+            "day": "2025-04-07",
+            "contributors": {
+                "sleep_recovery": 46.5,
+                "daytime_recovery": 39.0,
+                "stress": 72.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "9bc3b3a9-d39d-4a1b-a8d2-95437ebc9c30",
+            "day": "2025-04-08",
+            "contributors": {
+                "sleep_recovery": 46.5,
+                "daytime_recovery": 39.8,
+                "stress": 69.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "991f0b6a-e090-44c5-a9ef-f1a6194b051f",
+            "day": "2025-04-09",
+            "contributors": {
+                "sleep_recovery": 45.2,
+                "daytime_recovery": 39.9,
+                "stress": 65.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "0a79c64e-7ce9-4129-a7c5-eccc47c517f9",
+            "day": "2025-04-10",
+            "contributors": {
+                "sleep_recovery": 45.4,
+                "daytime_recovery": 40.2,
+                "stress": 64.9
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "4de78c5f-f418-4a45-b651-2208e41c04d5",
+            "day": "2025-04-11",
+            "contributors": {
+                "sleep_recovery": 43.9,
+                "daytime_recovery": 41.1,
+                "stress": 58.5
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "4e7c8b71-2c6f-440b-9d81-aa6759dd6649",
+            "day": "2025-04-12",
+            "contributors": {
+                "sleep_recovery": 43.9,
+                "daytime_recovery": 42.2,
+                "stress": 55.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "2b9c9a1b-fa42-4a2e-98d0-280a970275f9",
+            "day": "2025-04-13",
+            "contributors": {
+                "sleep_recovery": 43.4,
+                "daytime_recovery": 42.6,
+                "stress": 53.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "6221d120-9427-4323-8ff2-dd955e0efcad",
+            "day": "2025-04-14",
+            "contributors": {
+                "sleep_recovery": 43.4,
+                "daytime_recovery": 43.0,
+                "stress": 52.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e46fec52-a822-4df0-ae0c-56d946e04cfa",
+            "day": "2025-04-15",
+            "contributors": {
+                "sleep_recovery": 47.9,
+                "daytime_recovery": 48.3,
+                "stress": 45.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "48d5771a-48f9-45b1-be48-17699a050813",
+            "day": "2025-04-16",
+            "contributors": {
+                "sleep_recovery": 48.0,
+                "daytime_recovery": 48.4,
+                "stress": 45.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5b31ca61-2a51-4c17-91c5-ee11cc6ec45b",
+            "day": "2025-04-17",
+            "contributors": {
+                "sleep_recovery": 54.8,
+                "daytime_recovery": 53.6,
+                "stress": 44.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "8c095344-f277-454d-8fb8-52813d460f9c",
+            "day": "2025-04-18",
+            "contributors": {
+                "sleep_recovery": 54.8,
+                "daytime_recovery": 54.4,
+                "stress": 41.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d8e927fd-85ff-4390-ab7d-a156c5cea93d",
+            "day": "2025-04-19",
+            "contributors": {
+                "sleep_recovery": 59.9,
+                "daytime_recovery": 58.8,
+                "stress": 39.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "306e7a42-c6da-4d29-9076-22394c18f739",
+            "day": "2025-04-20",
+            "contributors": {
+                "sleep_recovery": 65.1,
+                "daytime_recovery": 63.4,
+                "stress": 36.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "1ffdb878-8ffd-48fb-8bb1-9e7924189413",
+            "day": "2025-04-21",
+            "contributors": {
+                "sleep_recovery": 66.3,
+                "daytime_recovery": 63.6,
+                "stress": 39.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "378b0d86-f4f0-4197-ab78-39407e4930c7",
+            "day": "2025-04-22",
+            "contributors": {
+                "sleep_recovery": 69.5,
+                "daytime_recovery": 65.3,
+                "stress": 40.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "5d0062e3-32fc-40ad-9a6e-4a08fcf1ba4c",
+            "day": "2025-04-23",
+            "contributors": {
+                "sleep_recovery": 70.8,
+                "daytime_recovery": 66.2,
+                "stress": 41.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "45aacc48-4cd1-4ecb-b468-f61e67c1415b",
+            "day": "2025-04-24",
+            "contributors": {
+                "sleep_recovery": 72.5,
+                "daytime_recovery": 67.8,
+                "stress": 40.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "53f8c728-d862-4dc8-82e7-27d39f0abf71",
+            "day": "2025-04-25",
+            "contributors": {
+                "sleep_recovery": 76.2,
+                "daytime_recovery": 68.9,
+                "stress": 45.2
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "a2e3e196-f988-4f43-bb99-2be526b93dbd",
+            "day": "2025-04-26",
+            "contributors": {
+                "sleep_recovery": 80.1,
+                "daytime_recovery": 70.8,
+                "stress": 47.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "23fe8712-bffc-4a81-9b15-85efb0dcffae",
+            "day": "2025-04-27",
+            "contributors": {
+                "sleep_recovery": 83.4,
+                "daytime_recovery": 72.1,
+                "stress": 50.7
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "e27022a8-ee25-4bd9-af17-4c122dfd909c",
+            "day": "2025-04-28",
+            "contributors": {
+                "sleep_recovery": 84.1,
+                "daytime_recovery": 71.8,
+                "stress": 53.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "f80715c5-0130-48bf-9945-5d8c55878bf7",
+            "day": "2025-04-29",
+            "contributors": {
+                "sleep_recovery": 83.6,
+                "daytime_recovery": 69.7,
+                "stress": 59.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "b45929e7-ec0d-4041-a834-f409ce663bf8",
+            "day": "2025-04-30",
+            "contributors": {
+                "sleep_recovery": 83.6,
+                "daytime_recovery": 69.7,
+                "stress": 59.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "e46f08fd-9cff-49eb-b7f3-4bde0098dd19",
+            "day": "2025-05-01",
+            "contributors": {
+                "sleep_recovery": 82.2,
+                "daytime_recovery": 68.3,
+                "stress": 60.8
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "aba57ce3-eed9-4ddb-b527-e026d7ce5c4f",
+            "day": "2025-05-02",
+            "contributors": {
+                "sleep_recovery": 81.8,
+                "daytime_recovery": 66.5,
+                "stress": 65.9
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "20990228-5e18-4224-afe4-90b4d6ba7757",
+            "day": "2025-05-03",
+            "contributors": {
+                "sleep_recovery": 81.3,
+                "daytime_recovery": 65.6,
+                "stress": 67.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "2606f058-89ea-4968-9baa-71a3ed240d34",
+            "day": "2025-05-04",
+            "contributors": {
+                "sleep_recovery": 73.7,
+                "daytime_recovery": 58.9,
+                "stress": 71.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "37166554-14b3-4fc2-a4bd-fa3b3f4df051",
+            "day": "2025-05-05",
+            "contributors": {
+                "sleep_recovery": 72.0,
+                "daytime_recovery": 57.6,
+                "stress": 71.2
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "fac2b5f8-eb4d-4dd5-a192-a498cabba7d5",
+            "day": "2025-05-06",
+            "contributors": {
+                "sleep_recovery": 65.4,
+                "daytime_recovery": 51.9,
+                "stress": 75.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "be01b9d9-14c6-4b79-94e8-7c1cd6d9c987",
+            "day": "2025-05-07",
+            "contributors": {
+                "sleep_recovery": 62.1,
+                "daytime_recovery": 49.2,
+                "stress": 76.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "d806fbf1-e168-4686-9e63-f9e5abaf5af7",
+            "day": "2025-05-09",
+            "contributors": {
+                "sleep_recovery": 55.3,
+                "daytime_recovery": 44.9,
+                "stress": 74.5
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d4bf7eb0-557b-48e1-8d52-6dcd48f21200",
+            "day": "2025-05-10",
+            "contributors": {
+                "sleep_recovery": 51.4,
+                "daytime_recovery": 41.6,
+                "stress": 76.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "286bf1cc-86ba-4199-b579-022122eac127",
+            "day": "2025-05-11",
+            "contributors": {
+                "sleep_recovery": 48.0,
+                "daytime_recovery": 39.9,
+                "stress": 74.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "fba9b8e0-ea27-43da-b7f9-bf8481fdfbca",
+            "day": "2025-05-12",
+            "contributors": {
+                "sleep_recovery": 44.3,
+                "daytime_recovery": 37.6,
+                "stress": 72.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "f93f66de-89db-45e2-9a12-2b9ff54ff0c6",
+            "day": "2025-05-13",
+            "contributors": {
+                "sleep_recovery": 41.7,
+                "daytime_recovery": 35.9,
+                "stress": 72.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "9c3be797-5148-41da-9350-ad30dac2b122",
+            "day": "2025-05-14",
+            "contributors": {
+                "sleep_recovery": 40.2,
+                "daytime_recovery": 36.2,
+                "stress": 67.1
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "cf00ca3a-8ed5-4b66-9745-0e5315fa6d3e",
+            "day": "2025-05-15",
+            "contributors": {
+                "sleep_recovery": 38.0,
+                "daytime_recovery": 34.6,
+                "stress": 67.1
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "93a0e6bf-306e-4a19-b94e-4fb14ec9047f",
+            "day": "2025-05-16",
+            "contributors": {
+                "sleep_recovery": 36.2,
+                "daytime_recovery": 33.8,
+                "stress": 65.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "3e552b1d-73a3-4b6f-bde4-46f0827084e4",
+            "day": "2025-05-17",
+            "contributors": {
+                "sleep_recovery": 35.5,
+                "daytime_recovery": 32.7,
+                "stress": 67.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "56651f91-6101-4b33-80c2-802593f5139f",
+            "day": "2025-05-18",
+            "contributors": {
+                "sleep_recovery": 36.9,
+                "daytime_recovery": 34.8,
+                "stress": 63.9
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "51f24d2e-3211-4b1f-9f03-76cba5b44454",
+            "day": "2025-05-19",
+            "contributors": {
+                "sleep_recovery": 39.1,
+                "daytime_recovery": 37.2,
+                "stress": 61.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "6b7a8236-988f-45a1-9bcb-90600dd7f983",
+            "day": "2025-05-20",
+            "contributors": {
+                "sleep_recovery": 41.1,
+                "daytime_recovery": 39.3,
+                "stress": 58.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "2ddd01c0-9a8b-43c8-8bd8-c1c1f69499af",
+            "day": "2025-05-22",
+            "contributors": {
+                "sleep_recovery": 46.2,
+                "daytime_recovery": 44.2,
+                "stress": 54.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "3a29f2a4-cdbc-4c57-90c8-2d56d89b8a60",
+            "day": "2025-05-23",
+            "contributors": {
+                "sleep_recovery": 50.4,
+                "daytime_recovery": 47.4,
+                "stress": 53.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "4a75ce3f-e9ba-46ac-a3ef-82dcc88e181e",
+            "day": "2025-05-24",
+            "contributors": {
+                "sleep_recovery": 51.4,
+                "daytime_recovery": 49.2,
+                "stress": 49.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "2c94bd68-cce7-4043-8680-b1b363aa4cee",
+            "day": "2025-05-25",
+            "contributors": {
+                "sleep_recovery": 52.2,
+                "daytime_recovery": 49.4,
+                "stress": 51.5
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5ad6e643-b0f2-48ed-a90f-157e431b2714",
+            "day": "2025-05-26",
+            "contributors": {
+                "sleep_recovery": 57.8,
+                "daytime_recovery": 54.2,
+                "stress": 48.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "68849e8c-a538-4f75-92ba-6f5bc42f1123",
+            "day": "2025-05-27",
+            "contributors": {
+                "sleep_recovery": 61.7,
+                "daytime_recovery": 57.9,
+                "stress": 45.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "4736ce41-1b1e-434e-9c25-21adedf3b91d",
+            "day": "2025-05-28",
+            "contributors": {
+                "sleep_recovery": 65.9,
+                "daytime_recovery": 59.9,
+                "stress": 48.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3a4164bb-af62-4b6b-b2d6-97c3bb188a0d",
+            "day": "2025-05-29",
+            "contributors": {
+                "sleep_recovery": 68.7,
+                "daytime_recovery": 61.0,
+                "stress": 51.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "8a5aad61-47b3-4f8d-b7f2-fd3c4522e1ff",
+            "day": "2025-05-30",
+            "contributors": {
+                "sleep_recovery": 66.9,
+                "daytime_recovery": 60.6,
+                "stress": 48.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "5dab5e02-0917-46a5-ba83-e0b3497d9a82",
+            "day": "2025-05-31",
+            "contributors": {
+                "sleep_recovery": 70.2,
+                "daytime_recovery": 63.2,
+                "stress": 47.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "bceaef56-dbef-4ed8-9537-06755e345fbc",
+            "day": "2025-06-01",
+            "contributors": {
+                "sleep_recovery": 72.5,
+                "daytime_recovery": 65.2,
+                "stress": 45.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "7cc3bbbe-b04d-429a-ace0-515beeef4e7c",
+            "day": "2025-06-02",
+            "contributors": {
+                "sleep_recovery": 73.3,
+                "daytime_recovery": 64.8,
+                "stress": 49.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "29558b40-362e-4c02-a016-03fcdb889322",
+            "day": "2025-06-03",
+            "contributors": {
+                "sleep_recovery": 75.2,
+                "daytime_recovery": 65.8,
+                "stress": 50.9
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "6f569379-e973-4ea0-a700-382d8b22070c",
+            "day": "2025-06-04",
+            "contributors": {
+                "sleep_recovery": 75.8,
+                "daytime_recovery": 65.6,
+                "stress": 52.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "4043f6f6-5c62-44ea-90ff-d295fa2e7998",
+            "day": "2025-06-05",
+            "contributors": {
+                "sleep_recovery": 72.6,
+                "daytime_recovery": 63.8,
+                "stress": 51.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3071e8e1-372a-4a66-ab35-784a6de8ad61",
+            "day": "2025-06-06",
+            "contributors": {
+                "sleep_recovery": 70.7,
+                "daytime_recovery": 61.8,
+                "stress": 53.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "89053fa4-2818-4242-a449-a4ba68c73820",
+            "day": "2025-06-07",
+            "contributors": {
+                "sleep_recovery": 72.9,
+                "daytime_recovery": 63.1,
+                "stress": 54.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "23779f05-4190-4bea-8e01-93a574f89918",
+            "day": "2025-06-08",
+            "contributors": {
+                "sleep_recovery": 72.1,
+                "daytime_recovery": 63.1,
+                "stress": 52.8
+            },
+            "level": "strong"
+        },
+        {
+            "id": "6cc6165d-1de3-46ab-96ee-3fab86f890cb",
+            "day": "2025-06-09",
+            "contributors": {
+                "sleep_recovery": 70.5,
+                "daytime_recovery": 61.7,
+                "stress": 54.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "0434ffe5-a770-4cfb-b562-bfb09b18c06b",
+            "day": "2025-06-10",
+            "contributors": {
+                "sleep_recovery": 70.3,
+                "daytime_recovery": 61.1,
+                "stress": 54.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "c89c0b35-f70e-4893-8e5f-527dcefbe218",
+            "day": "2025-06-11",
+            "contributors": {
+                "sleep_recovery": 69.5,
+                "daytime_recovery": 60.8,
+                "stress": 54.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3d7f96df-b6ec-4857-99b7-159419bf0265",
+            "day": "2025-06-12",
+            "contributors": {
+                "sleep_recovery": 68.3,
+                "daytime_recovery": 60.3,
+                "stress": 53.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "b50fc527-d889-4e83-8371-0eeaac2bc778",
+            "day": "2025-06-13",
+            "contributors": {
+                "sleep_recovery": 70.7,
+                "daytime_recovery": 61.6,
+                "stress": 54.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "5d6c46d1-8e83-401e-8a0f-e539f97d83dd",
+            "day": "2025-06-14",
+            "contributors": {
+                "sleep_recovery": 70.0,
+                "daytime_recovery": 61.2,
+                "stress": 54.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "334a5327-59d4-4ba9-b125-75f628756bf9",
+            "day": "2025-06-15",
+            "contributors": {
+                "sleep_recovery": 69.0,
+                "daytime_recovery": 60.4,
+                "stress": 54.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "309a6fdd-7e0c-43af-97d0-5ff89ef4f1fc",
+            "day": "2025-06-16",
+            "contributors": {
+                "sleep_recovery": 68.4,
+                "daytime_recovery": 60.5,
+                "stress": 52.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "57df84aa-6b85-4fc7-a107-56b178418e42",
+            "day": "2025-06-17",
+            "contributors": {
+                "sleep_recovery": 65.6,
+                "daytime_recovery": 59.4,
+                "stress": 48.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "f2927f4e-fefa-463e-8dba-dd703c76ff03",
+            "day": "2025-06-18",
+            "contributors": {
+                "sleep_recovery": 63.9,
+                "daytime_recovery": 57.8,
+                "stress": 49.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "b6c9c14b-d4d5-4f88-a6d2-34918274192f",
+            "day": "2025-06-19",
+            "contributors": {
+                "sleep_recovery": 65.0,
+                "daytime_recovery": 57.0,
+                "stress": 55.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "182ee8fc-0dca-42f9-918a-419cbb047668",
+            "day": "2025-06-20",
+            "contributors": {
+                "sleep_recovery": 65.9,
+                "daytime_recovery": 57.9,
+                "stress": 53.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "c63cfae7-6ad8-4c00-99c9-b2b0afd161d3",
+            "day": "2025-06-21",
+            "contributors": {
+                "sleep_recovery": 67.2,
+                "daytime_recovery": 57.8,
+                "stress": 58.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "861b25cf-8d73-4188-a4c1-f4a1ac692458",
+            "day": "2025-06-22",
+            "contributors": {
+                "sleep_recovery": 68.1,
+                "daytime_recovery": 58.2,
+                "stress": 57.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "0602e165-5b84-4dc5-9cc4-6681198313fc",
+            "day": "2025-06-23",
+            "contributors": {
+                "sleep_recovery": 68.6,
+                "daytime_recovery": 60.0,
+                "stress": 52.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "fc92526c-ee62-4474-a115-0a9f2fcd9bcb",
+            "day": "2025-06-24",
+            "contributors": {
+                "sleep_recovery": 68.2,
+                "daytime_recovery": 59.8,
+                "stress": 53.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "cde2aefe-0b33-4917-bb07-81448b8c2602",
+            "day": "2025-06-25",
+            "contributors": {
+                "sleep_recovery": 68.2,
+                "daytime_recovery": 59.8,
+                "stress": 53.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "eaa1700e-0330-4d84-8349-38c7c86ba540",
+            "day": "2025-06-26",
+            "contributors": {
+                "sleep_recovery": 66.2,
+                "daytime_recovery": 59.1,
+                "stress": 49.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "59cab574-aa14-4e1a-9c9a-929e34bd6c07",
+            "day": "2025-06-27",
+            "contributors": {
+                "sleep_recovery": 63.3,
+                "daytime_recovery": 56.8,
+                "stress": 48.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "dbe7144e-9885-4af3-a75d-f7c5751fa988",
+            "day": "2025-06-28",
+            "contributors": {
+                "sleep_recovery": 63.8,
+                "daytime_recovery": 56.5,
+                "stress": 51.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "c0a9c919-bcd7-40f6-8109-8870f6c57d82",
+            "day": "2025-06-29",
+            "contributors": {
+                "sleep_recovery": 62.0,
+                "daytime_recovery": 56.0,
+                "stress": 48.5
+            },
+            "level": "solid"
+        },
+        {
+            "id": "6f511b7e-f393-4b1f-ac20-42b8d96b2df3",
+            "day": "2025-06-30",
+            "contributors": {
+                "sleep_recovery": 62.2,
+                "daytime_recovery": 56.4,
+                "stress": 48.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "8f1fccae-8e64-4d22-8f36-a07c17bec7eb",
+            "day": "2025-07-01",
+            "contributors": {
+                "sleep_recovery": 62.6,
+                "daytime_recovery": 56.4,
+                "stress": 48.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "3b23df10-1e6e-43a5-9005-159d55fd89ea",
+            "day": "2025-07-02",
+            "contributors": {
+                "sleep_recovery": 64.7,
+                "daytime_recovery": 60.2,
+                "stress": 42.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "4b5baf45-313a-4812-b8d5-95853c4e1d12",
+            "day": "2025-07-03",
+            "contributors": {
+                "sleep_recovery": 65.1,
+                "daytime_recovery": 61.4,
+                "stress": 39.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "0bdc2bf3-7b41-4eab-b013-ce0642876f89",
+            "day": "2025-07-04",
+            "contributors": {
+                "sleep_recovery": 65.1,
+                "daytime_recovery": 61.4,
+                "stress": 39.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "451b56d2-117e-4562-afa9-10c5b0b0fc1e",
+            "day": "2025-07-05",
+            "contributors": {
+                "sleep_recovery": 63.9,
+                "daytime_recovery": 62.8,
+                "stress": 32.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "a45a5034-154e-4b46-973f-1d339e9ad217",
+            "day": "2025-07-06",
+            "contributors": {
+                "sleep_recovery": 63.2,
+                "daytime_recovery": 61.9,
+                "stress": 34.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "49b994f3-534f-48bb-abb6-8505d2b667f5",
+            "day": "2025-07-07",
+            "contributors": {
+                "sleep_recovery": 61.1,
+                "daytime_recovery": 59.5,
+                "stress": 37.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "49cc0dc6-0d53-4f83-a080-e5dc12d2e9b4",
+            "day": "2025-07-08",
+            "contributors": {
+                "sleep_recovery": 65.1,
+                "daytime_recovery": 61.2,
+                "stress": 41.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "b34f1a88-7c46-4024-b739-b2f812b46c59",
+            "day": "2025-07-10",
+            "contributors": {
+                "sleep_recovery": 65.9,
+                "daytime_recovery": 61.7,
+                "stress": 42.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3ef4e484-81b2-41c6-a8e3-021ebfdb0ad1",
+            "day": "2025-07-11",
+            "contributors": {
+                "sleep_recovery": 68.6,
+                "daytime_recovery": 63.2,
+                "stress": 44.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "aa63c813-4425-414f-aee1-c0aed90b6d4f",
+            "day": "2025-07-12",
+            "contributors": {
+                "sleep_recovery": 70.9,
+                "daytime_recovery": 63.7,
+                "stress": 48.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "6282be83-bb39-4642-a97f-4f50c965175a",
+            "day": "2025-07-13",
+            "contributors": {
+                "sleep_recovery": 70.0,
+                "daytime_recovery": 62.8,
+                "stress": 49.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "e85d9344-c309-437c-8cd2-3d3b658ea183",
+            "day": "2025-07-14",
+            "contributors": {
+                "sleep_recovery": 71.8,
+                "daytime_recovery": 64.6,
+                "stress": 47.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "08a783ca-4878-4365-85f3-27223de14079",
+            "day": "2025-07-15",
+            "contributors": {
+                "sleep_recovery": 71.9,
+                "daytime_recovery": 64.6,
+                "stress": 47.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "a3ed4e80-26ab-44fa-a8b6-8544ef7a49b8",
+            "day": "2025-07-16",
+            "contributors": {
+                "sleep_recovery": 69.6,
+                "daytime_recovery": 60.5,
+                "stress": 56.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "caeffab4-6c70-40f4-8762-b467a8191857",
+            "day": "2025-07-17",
+            "contributors": {
+                "sleep_recovery": 72.8,
+                "daytime_recovery": 61.5,
+                "stress": 60.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "8f031cab-791c-4834-9567-263e744903b9",
+            "day": "2025-07-18",
+            "contributors": {
+                "sleep_recovery": 74.6,
+                "daytime_recovery": 61.8,
+                "stress": 63.2
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "49b9a423-547c-4260-8c2e-c6b8ed103c74",
+            "day": "2025-07-20",
+            "contributors": {
+                "sleep_recovery": 78.2,
+                "daytime_recovery": 63.4,
+                "stress": 66.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "f33aeb52-d4d8-4455-a8a1-e010bced7507",
+            "day": "2025-07-21",
+            "contributors": {
+                "sleep_recovery": 81.1,
+                "daytime_recovery": 64.6,
+                "stress": 69.0
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "6c09eda7-230d-44e6-a0df-cf341e154538",
+            "day": "2025-07-22",
+            "contributors": {
+                "sleep_recovery": 80.4,
+                "daytime_recovery": 64.1,
+                "stress": 69.1
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "052687a5-4a24-4519-bab8-5dcf8008f6d6",
+            "day": "2025-07-23",
+            "contributors": {
+                "sleep_recovery": 80.5,
+                "daytime_recovery": 63.7,
+                "stress": 70.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "09db9d95-bd3f-4ca4-a13f-602e50c9f7e8",
+            "day": "2025-07-24",
+            "contributors": {
+                "sleep_recovery": 78.8,
+                "daytime_recovery": 62.0,
+                "stress": 71.9
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "96fe60bd-49f4-4d4a-a645-a9d94af5e758",
+            "day": "2025-07-25",
+            "contributors": {
+                "sleep_recovery": 79.4,
+                "daytime_recovery": 63.6,
+                "stress": 67.8
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "2f40c8bb-b7d7-4344-9705-5c2975a7cf23",
+            "day": "2025-07-26",
+            "contributors": {
+                "sleep_recovery": 78.1,
+                "daytime_recovery": 63.7,
+                "stress": 64.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "c96b417f-2141-4414-9073-e586d68e9eb0",
+            "day": "2025-07-27",
+            "contributors": {
+                "sleep_recovery": 76.9,
+                "daytime_recovery": 64.2,
+                "stress": 60.0
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "f7e25431-d249-48a1-8e83-765c70d2e52e",
+            "day": "2025-07-28",
+            "contributors": {
+                "sleep_recovery": 77.6,
+                "daytime_recovery": 64.1,
+                "stress": 61.7
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "ea822256-f347-4197-b957-3a90856dd002",
+            "day": "2025-07-29",
+            "contributors": {
+                "sleep_recovery": 75.4,
+                "daytime_recovery": 63.8,
+                "stress": 57.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "ccd18f4d-e520-4341-9ac8-841f2a071106",
+            "day": "2025-07-30",
+            "contributors": {
+                "sleep_recovery": 76.0,
+                "daytime_recovery": 65.6,
+                "stress": 52.2
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "6ca1832b-9de7-419c-a3a3-5e9e9a62ba2e",
+            "day": "2025-07-31",
+            "contributors": {
+                "sleep_recovery": 72.9,
+                "daytime_recovery": 63.9,
+                "stress": 50.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "1040448b-7973-4408-a5c7-7d1140eb461c",
+            "day": "2025-08-01",
+            "contributors": {
+                "sleep_recovery": 70.1,
+                "daytime_recovery": 63.0,
+                "stress": 47.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "1a7de281-7255-41df-b249-755499835c95",
+            "day": "2025-08-02",
+            "contributors": {
+                "sleep_recovery": 69.9,
+                "daytime_recovery": 63.5,
+                "stress": 45.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "13f80215-7a8c-45c6-892b-81dc4cd7580e",
+            "day": "2025-08-03",
+            "contributors": {
+                "sleep_recovery": 67.4,
+                "daytime_recovery": 62.3,
+                "stress": 42.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "dc015a56-fa2c-47e5-b629-fd53570c58d2",
+            "day": "2025-08-04",
+            "contributors": {
+                "sleep_recovery": 64.7,
+                "daytime_recovery": 60.7,
+                "stress": 41.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "46e4575a-58fc-465c-acff-0e73d9ed0b93",
+            "day": "2025-08-05",
+            "contributors": {
+                "sleep_recovery": 63.1,
+                "daytime_recovery": 59.6,
+                "stress": 41.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "af6b03a7-c3f2-46b2-bb16-ee0297212ab5",
+            "day": "2025-08-06",
+            "contributors": {
+                "sleep_recovery": 62.3,
+                "daytime_recovery": 59.1,
+                "stress": 40.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "ba8699ae-eb01-423b-883c-9f4d5adafb4d",
+            "day": "2025-08-07",
+            "contributors": {
+                "sleep_recovery": 61.7,
+                "daytime_recovery": 58.4,
+                "stress": 41.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "674351ce-9c38-4354-8320-a315c1250993",
+            "day": "2025-08-08",
+            "contributors": {
+                "sleep_recovery": 61.2,
+                "daytime_recovery": 57.2,
+                "stress": 42.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "cad38030-fa72-47b8-946d-3a166fd1a464",
+            "day": "2025-08-09",
+            "contributors": {
+                "sleep_recovery": 59.2,
+                "daytime_recovery": 55.0,
+                "stress": 45.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "c02bbc2c-db76-4cc6-a407-57f367113c70",
+            "day": "2025-08-10",
+            "contributors": {
+                "sleep_recovery": 58.0,
+                "daytime_recovery": 52.5,
+                "stress": 50.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "3f4e6e58-7662-4430-877f-9b286a201f79",
+            "day": "2025-08-11",
+            "contributors": {
+                "sleep_recovery": 55.0,
+                "daytime_recovery": 50.2,
+                "stress": 50.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "264efd98-5d24-4b15-a7ef-995d1268efc8",
+            "day": "2025-08-12",
+            "contributors": {
+                "sleep_recovery": 52.0,
+                "daytime_recovery": 46.9,
+                "stress": 54.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "751b6b31-f8d0-4c12-96dd-31e72084c82a",
+            "day": "2025-08-13",
+            "contributors": {
+                "sleep_recovery": 49.9,
+                "daytime_recovery": 44.3,
+                "stress": 57.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "c2db413f-5488-4ba5-8503-b26d3d13bbd2",
+            "day": "2025-08-14",
+            "contributors": {
+                "sleep_recovery": 49.0,
+                "daytime_recovery": 43.0,
+                "stress": 60.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "4396d39b-177e-4308-931e-93a2c73e86d5",
+            "day": "2025-08-15",
+            "contributors": {
+                "sleep_recovery": 47.5,
+                "daytime_recovery": 41.2,
+                "stress": 62.9
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "c0f97898-6a38-4979-b294-7b8bce63133e",
+            "day": "2025-08-17",
+            "contributors": {
+                "sleep_recovery": 43.6,
+                "daytime_recovery": 36.6,
+                "stress": 70.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "4467f85c-72a4-4c02-9917-6a196fa10f79",
+            "day": "2025-08-18",
+            "contributors": {
+                "sleep_recovery": 41.2,
+                "daytime_recovery": 35.3,
+                "stress": 69.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "d2112b5c-fab0-4a03-90e0-271946bd17af",
+            "day": "2025-08-19",
+            "contributors": {
+                "sleep_recovery": 40.4,
+                "daytime_recovery": 34.3,
+                "stress": 71.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e20fdd8c-6d7c-46e5-9fd6-5f5a051c64ef",
+            "day": "2025-08-20",
+            "contributors": {
+                "sleep_recovery": 37.8,
+                "daytime_recovery": 32.1,
+                "stress": 73.1
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "c48e01b1-e5fe-4f74-bb6a-dbc8540265bd",
+            "day": "2025-08-21",
+            "contributors": {
+                "sleep_recovery": 35.5,
+                "daytime_recovery": 30.5,
+                "stress": 73.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e631dc71-f799-4f82-b6de-a0080a4a1efd",
+            "day": "2025-08-22",
+            "contributors": {
+                "sleep_recovery": 33.8,
+                "daytime_recovery": 30.1,
+                "stress": 71.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e9fc8009-5185-470a-84f6-83e346a30e90",
+            "day": "2025-08-23",
+            "contributors": {
+                "sleep_recovery": 30.2,
+                "daytime_recovery": 27.8,
+                "stress": 70.3
+            },
+            "level": "limited"
+        },
+        {
+            "id": "88fd34ca-7f0e-4752-9587-ce8ad4c69395",
+            "day": "2025-08-24",
+            "contributors": {
+                "sleep_recovery": 29.7,
+                "daytime_recovery": 28.1,
+                "stress": 67.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "7dc533b2-07fd-4426-bd27-e4f5c0172eb8",
+            "day": "2025-08-25",
+            "contributors": {
+                "sleep_recovery": 30.0,
+                "daytime_recovery": 28.8,
+                "stress": 66.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "e3fb5b59-9f59-44b5-9a2c-1428317f7e6b",
+            "day": "2025-08-26",
+            "contributors": {
+                "sleep_recovery": 33.7,
+                "daytime_recovery": 32.1,
+                "stress": 63.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "91e25ddc-2df8-4230-bcf0-8d99b7f5192f",
+            "day": "2025-08-27",
+            "contributors": {
+                "sleep_recovery": 33.8,
+                "daytime_recovery": 33.5,
+                "stress": 59.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e664bd31-89c5-4eda-bff1-e36e805a8544",
+            "day": "2025-08-28",
+            "contributors": {
+                "sleep_recovery": 35.1,
+                "daytime_recovery": 34.4,
+                "stress": 59.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "ef994cb4-f92e-43b6-a8cf-73a543e06e08",
+            "day": "2025-08-29",
+            "contributors": {
+                "sleep_recovery": 38.5,
+                "daytime_recovery": 38.2,
+                "stress": 54.5
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "f1b43075-8e2e-4b5f-ba85-bac7058d1c5d",
+            "day": "2025-08-30",
+            "contributors": {
+                "sleep_recovery": 41.8,
+                "daytime_recovery": 41.2,
+                "stress": 52.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "5a04ded7-2a4f-4120-ac0d-fc3e7026ef3c",
+            "day": "2025-08-31",
+            "contributors": {
+                "sleep_recovery": 44.0,
+                "daytime_recovery": 43.7,
+                "stress": 49.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "8c7ae582-9e5c-4c83-80e7-c61aa37f5095",
+            "day": "2025-09-01",
+            "contributors": {
+                "sleep_recovery": 47.0,
+                "daytime_recovery": 45.1,
+                "stress": 51.9
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "50ce1050-2151-4607-b33f-49cff07b92b3",
+            "day": "2025-09-02",
+            "contributors": {
+                "sleep_recovery": 50.6,
+                "daytime_recovery": 48.1,
+                "stress": 50.5
+            },
+            "level": "solid"
+        },
+        {
+            "id": "b61db16b-3b24-4c03-8047-21d4160a7677",
+            "day": "2025-09-03",
+            "contributors": {
+                "sleep_recovery": 52.4,
+                "daytime_recovery": 50.9,
+                "stress": 45.5
+            },
+            "level": "solid"
+        },
+        {
+            "id": "434f5e9d-67dc-4823-84ba-3bca271865d3",
+            "day": "2025-09-04",
+            "contributors": {
+                "sleep_recovery": 56.7,
+                "daytime_recovery": 54.1,
+                "stress": 45.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "86dba5e8-25da-4d82-b765-453d19ef22b5",
+            "day": "2025-09-05",
+            "contributors": {
+                "sleep_recovery": 61.1,
+                "daytime_recovery": 57.8,
+                "stress": 42.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5c25b230-db05-4706-839d-8e478a8e42d1",
+            "day": "2025-09-06",
+            "contributors": {
+                "sleep_recovery": 63.7,
+                "daytime_recovery": 60.1,
+                "stress": 41.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "f20c2a3d-7a11-4cb6-8e20-2bfa4500ce08",
+            "day": "2025-09-07",
+            "contributors": {
+                "sleep_recovery": 67.7,
+                "daytime_recovery": 63.3,
+                "stress": 40.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "c2d01e11-6939-4403-b3d9-cfb1c15cf7f1",
+            "day": "2025-09-08",
+            "contributors": {
+                "sleep_recovery": 68.6,
+                "daytime_recovery": 64.9,
+                "stress": 38.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "2fda09aa-817e-49f5-9a8c-123b6ce8f032",
+            "day": "2025-09-09",
+            "contributors": {
+                "sleep_recovery": 70.9,
+                "daytime_recovery": 66.7,
+                "stress": 37.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "28a8d536-9d73-4534-a965-daad9f8a817c",
+            "day": "2025-09-10",
+            "contributors": {
+                "sleep_recovery": 74.7,
+                "daytime_recovery": 69.8,
+                "stress": 36.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "0436ad2e-e847-4dbd-a12f-4958972de228",
+            "day": "2025-09-11",
+            "contributors": {
+                "sleep_recovery": 77.8,
+                "daytime_recovery": 73.0,
+                "stress": 32.9
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "3e81055d-81de-4865-bcd4-13636d579330",
+            "day": "2025-09-12",
+            "contributors": {
+                "sleep_recovery": 79.7,
+                "daytime_recovery": 74.6,
+                "stress": 32.3
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "f6354929-ab3e-4ea0-a35c-7ada51f6000e",
+            "day": "2025-09-13",
+            "contributors": {
+                "sleep_recovery": 80.3,
+                "daytime_recovery": 75.1,
+                "stress": 32.2
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "5083bab9-997d-4e99-aa76-f278f9d2124f",
+            "day": "2025-09-14",
+            "contributors": {
+                "sleep_recovery": 81.8,
+                "daytime_recovery": 76.2,
+                "stress": 31.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "6fbe7b06-6b4f-4288-ac4c-d5d234b5debb",
+            "day": "2025-09-15",
+            "contributors": {
+                "sleep_recovery": 79.9,
+                "daytime_recovery": 74.1,
+                "stress": 32.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "09f53ddf-0856-4c99-999c-cb5f07b049e3",
+            "day": "2025-09-16",
+            "contributors": {
+                "sleep_recovery": 81.8,
+                "daytime_recovery": 74.5,
+                "stress": 35.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "3ace7c56-3078-4e8c-9f5f-b4e55906d6b2",
+            "day": "2025-09-17",
+            "contributors": {
+                "sleep_recovery": 80.9,
+                "daytime_recovery": 73.0,
+                "stress": 38.8
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "02765037-a7dc-4e53-a89c-2cabe1f3efd9",
+            "day": "2025-09-18",
+            "contributors": {
+                "sleep_recovery": 82.0,
+                "daytime_recovery": 72.7,
+                "stress": 42.2
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "5aa3371f-f0c0-4d5d-bc94-b0edb2340699",
+            "day": "2025-09-19",
+            "contributors": {
+                "sleep_recovery": 81.7,
+                "daytime_recovery": 72.1,
+                "stress": 43.3
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "47cd2693-9c3b-497d-a1fa-15078460dd64",
+            "day": "2025-09-20",
+            "contributors": {
+                "sleep_recovery": 83.3,
+                "daytime_recovery": 71.7,
+                "stress": 49.1
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "3f5ea7ae-421d-4bdb-905c-eb76a4966c1c",
+            "day": "2025-09-21",
+            "contributors": {
+                "sleep_recovery": 84.2,
+                "daytime_recovery": 71.6,
+                "stress": 51.2
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "d456c6ca-91b5-4881-b592-fa8c6d8b30bd",
+            "day": "2025-09-23",
+            "contributors": {
+                "sleep_recovery": 85.2,
+                "daytime_recovery": 71.2,
+                "stress": 54.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "d5af0a9d-c7d4-433d-852d-298bc98b3e68",
+            "day": "2025-09-24",
+            "contributors": {
+                "sleep_recovery": 83.2,
+                "daytime_recovery": 68.2,
+                "stress": 60.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "e57dc38e-c8f8-451c-b588-b4cc8e2d6311",
+            "day": "2025-09-25",
+            "contributors": {
+                "sleep_recovery": 82.5,
+                "daytime_recovery": 66.2,
+                "stress": 65.3
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "6886711e-31af-487e-9869-0548a8d6e078",
+            "day": "2025-09-26",
+            "contributors": {
+                "sleep_recovery": 83.4,
+                "daytime_recovery": 66.6,
+                "stress": 65.8
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "3f6bca3e-b34d-48e8-8bea-ea2befd28ae2",
+            "day": "2025-09-28",
+            "contributors": {
+                "sleep_recovery": 80.5,
+                "daytime_recovery": 64.1,
+                "stress": 66.2
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "f0cded3b-a1d7-43dc-bcd2-ca9e9008934d",
+            "day": "2025-09-29",
+            "contributors": {
+                "sleep_recovery": 84.2,
+                "daytime_recovery": 67.3,
+                "stress": 65.0
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "2efcbd74-aa7a-430f-ab60-3471c89f59a9",
+            "day": "2025-09-30",
+            "contributors": {
+                "sleep_recovery": 82.6,
+                "daytime_recovery": 65.9,
+                "stress": 65.0
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "b08fa30f-8c53-42f2-b4e9-37836ddcdf5d",
+            "day": "2025-10-01",
+            "contributors": {
+                "sleep_recovery": 82.8,
+                "daytime_recovery": 65.7,
+                "stress": 67.1
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "b1559283-6469-4059-96bb-f9ee1e8b6e36",
+            "day": "2025-10-02",
+            "contributors": {
+                "sleep_recovery": 82.5,
+                "daytime_recovery": 66.1,
+                "stress": 64.9
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "623e6a97-a127-4011-98e2-d4bd3ddf86cc",
+            "day": "2025-10-03",
+            "contributors": {
+                "sleep_recovery": 81.5,
+                "daytime_recovery": 66.3,
+                "stress": 61.8
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "8932af69-32ed-4990-8bfc-74b605006b15",
+            "day": "2025-10-04",
+            "contributors": {
+                "sleep_recovery": 83.1,
+                "daytime_recovery": 67.3,
+                "stress": 61.3
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "c934d3fd-4f04-4fbe-85f9-2713b236f055",
+            "day": "2025-10-05",
+            "contributors": {
+                "sleep_recovery": 81.7,
+                "daytime_recovery": 65.7,
+                "stress": 63.3
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "1c2650cc-aa37-465c-9a7b-2ce0ff48407c",
+            "day": "2025-10-06",
+            "contributors": {
+                "sleep_recovery": 80.1,
+                "daytime_recovery": 64.3,
+                "stress": 64.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "d7e94ffd-65f2-49ec-b926-b976ab24ff0b",
+            "day": "2025-10-07",
+            "contributors": {
+                "sleep_recovery": 79.8,
+                "daytime_recovery": 63.2,
+                "stress": 67.9
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "60b7465c-368d-42ae-bdac-bd89777deda0",
+            "day": "2025-10-08",
+            "contributors": {
+                "sleep_recovery": 78.8,
+                "daytime_recovery": 62.1,
+                "stress": 69.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "514fe3ac-e611-484e-8c76-3dae37015c9e",
+            "day": "2025-10-09",
+            "contributors": {
+                "sleep_recovery": 76.9,
+                "daytime_recovery": 60.1,
+                "stress": 72.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "82fcdc22-315b-4245-9bb0-cf911cb6486e",
+            "day": "2025-10-10",
+            "contributors": {
+                "sleep_recovery": 75.2,
+                "daytime_recovery": 58.5,
+                "stress": 73.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "7a415b1e-e9df-4209-8dc8-f562625d2301",
+            "day": "2025-10-11",
+            "contributors": {
+                "sleep_recovery": 75.2,
+                "daytime_recovery": 58.4,
+                "stress": 73.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "4481c53b-78d2-4593-b85e-023d42de40d1",
+            "day": "2025-10-12",
+            "contributors": {
+                "sleep_recovery": 75.7,
+                "daytime_recovery": 58.6,
+                "stress": 74.0
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "287b4a50-8f00-49b1-8d7b-521d1a55e324",
+            "day": "2025-10-13",
+            "contributors": {
+                "sleep_recovery": 72.2,
+                "daytime_recovery": 55.5,
+                "stress": 76.5
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "3d332d2e-7266-45c1-baae-8ea21a276a02",
+            "day": "2025-10-14",
+            "contributors": {
+                "sleep_recovery": 73.3,
+                "daytime_recovery": 56.1,
+                "stress": 77.7
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "8fd702bd-e4ae-4698-9194-d35bf2026495",
+            "day": "2025-10-15",
+            "contributors": {
+                "sleep_recovery": 73.5,
+                "daytime_recovery": 57.5,
+                "stress": 73.7
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "d1031d13-33a7-4808-8528-0a8804fe4baf",
+            "day": "2025-10-16",
+            "contributors": {
+                "sleep_recovery": 72.8,
+                "daytime_recovery": 56.7,
+                "stress": 74.6
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "df356418-7d6e-4efc-8ed2-e74182452a49",
+            "day": "2025-10-17",
+            "contributors": {
+                "sleep_recovery": 71.3,
+                "daytime_recovery": 55.3,
+                "stress": 76.4
+            },
+            "level": "exceptional"
+        },
+        {
+            "id": "a0233150-3da1-44ec-84ae-a441f34fd772",
+            "day": "2025-10-18",
+            "contributors": {
+                "sleep_recovery": 68.1,
+                "daytime_recovery": 53.3,
+                "stress": 75.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "24f395b3-cece-42db-98d4-df30a224226d",
+            "day": "2025-10-20",
+            "contributors": {
+                "sleep_recovery": 66.3,
+                "daytime_recovery": 52.9,
+                "stress": 73.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "69a62a7f-fefd-460c-a5cb-cea7a4cfd227",
+            "day": "2025-10-21",
+            "contributors": {
+                "sleep_recovery": 64.2,
+                "daytime_recovery": 51.4,
+                "stress": 73.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3c1566c7-e4fb-485c-8ea1-2238251e4951",
+            "day": "2025-10-22",
+            "contributors": {
+                "sleep_recovery": 63.9,
+                "daytime_recovery": 51.5,
+                "stress": 72.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "c5dc3a84-7ce5-4ef3-850d-0fb3075bc5e2",
+            "day": "2025-10-24",
+            "contributors": {
+                "sleep_recovery": 63.6,
+                "daytime_recovery": 52.0,
+                "stress": 70.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "25ffd12d-daa7-4798-a4ee-cc71411f1169",
+            "day": "2025-10-25",
+            "contributors": {
+                "sleep_recovery": 61.8,
+                "daytime_recovery": 50.6,
+                "stress": 71.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "2ec4ebae-5379-4709-9d95-d82856fa280c",
+            "day": "2025-10-26",
+            "contributors": {
+                "sleep_recovery": 57.6,
+                "daytime_recovery": 47.4,
+                "stress": 73.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "5e5057fd-8421-431b-b324-20ee01d465d4",
+            "day": "2025-10-27",
+            "contributors": {
+                "sleep_recovery": 54.7,
+                "daytime_recovery": 45.4,
+                "stress": 73.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "16d0c981-366e-479c-aa13-1f5b34351a6e",
+            "day": "2025-10-28",
+            "contributors": {
+                "sleep_recovery": 54.0,
+                "daytime_recovery": 44.3,
+                "stress": 75.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5af9c050-b6cb-46d5-83f7-283c55c09682",
+            "day": "2025-10-29",
+            "contributors": {
+                "sleep_recovery": 52.1,
+                "daytime_recovery": 43.4,
+                "stress": 72.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "33f31f9c-7a2c-48ae-b088-95f0ae0318f6",
+            "day": "2025-11-01",
+            "contributors": {
+                "sleep_recovery": 48.6,
+                "daytime_recovery": 41.3,
+                "stress": 70.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "bcf458e9-96cb-4d02-918d-d75ace52e820",
+            "day": "2025-11-02",
+            "contributors": {
+                "sleep_recovery": 45.7,
+                "daytime_recovery": 38.5,
+                "stress": 73.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5db003fe-708d-4754-b64f-cd8ce3e1e044",
+            "day": "2025-11-04",
+            "contributors": {
+                "sleep_recovery": 43.8,
+                "daytime_recovery": 37.0,
+                "stress": 73.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e81b44ae-3146-4e89-89ec-8e40491e3b1f",
+            "day": "2025-11-05",
+            "contributors": {
+                "sleep_recovery": 44.7,
+                "daytime_recovery": 37.1,
+                "stress": 75.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "7335b84e-7f6b-4966-a072-c13736ada630",
+            "day": "2025-11-06",
+            "contributors": {
+                "sleep_recovery": 42.1,
+                "daytime_recovery": 35.0,
+                "stress": 76.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b4d1f4eb-240c-43da-ac2a-2cb3200a48f3",
+            "day": "2025-11-07",
+            "contributors": {
+                "sleep_recovery": 38.1,
+                "daytime_recovery": 31.5,
+                "stress": 79.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e568c90f-72d8-4695-a4b0-059d0c5c88bb",
+            "day": "2025-11-08",
+            "contributors": {
+                "sleep_recovery": 35.6,
+                "daytime_recovery": 29.3,
+                "stress": 80.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "d4a1986a-7dd8-4efc-9092-44e98a3b6fc9",
+            "day": "2025-11-09",
+            "contributors": {
+                "sleep_recovery": 34.5,
+                "daytime_recovery": 28.8,
+                "stress": 80.1
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "658043d7-85ce-4614-9102-bf4e69765a96",
+            "day": "2025-11-10",
+            "contributors": {
+                "sleep_recovery": 32.7,
+                "daytime_recovery": 27.6,
+                "stress": 79.1
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "133bb7c4-1667-4305-bc47-ffade1823108",
+            "day": "2025-11-11",
+            "contributors": {
+                "sleep_recovery": 31.0,
+                "daytime_recovery": 28.0,
+                "stress": 72.1
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "4b7d1a63-bbd5-438a-a242-1640ac16e2c8",
+            "day": "2025-11-12",
+            "contributors": {
+                "sleep_recovery": 30.1,
+                "daytime_recovery": 26.2,
+                "stress": 76.5
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b9cb9006-3f7c-4e80-bd5a-a83ea58260a9",
+            "day": "2025-11-14",
+            "contributors": {
+                "sleep_recovery": 30.1,
+                "daytime_recovery": 26.2,
+                "stress": 76.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "d9fdad19-62dc-41ce-9e70-d827bb5334d0",
+            "day": "2025-11-21",
+            "contributors": {
+                "sleep_recovery": 30.0,
+                "daytime_recovery": 27.3,
+                "stress": 70.2
+            },
+            "level": "limited"
+        },
+        {
+            "id": "18b4f63e-e206-4d7a-b7a3-61ea623afcb2",
+            "day": "2025-12-01",
+            "contributors": {
+                "sleep_recovery": 56.7,
+                "daytime_recovery": 51.8,
+                "stress": 52.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "54cf5433-9533-4892-8970-f818c56c78c2",
+            "day": "2025-12-02",
+            "contributors": {
+                "sleep_recovery": 56.6,
+                "daytime_recovery": 51.8,
+                "stress": 52.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "30ef27b0-1432-41d6-9d49-6b375be5ecd4",
+            "day": "2025-12-03",
+            "contributors": {
+                "sleep_recovery": 59.1,
+                "daytime_recovery": 52.7,
+                "stress": 55.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d104616e-8c29-4798-8300-b65f2fd2e9c8",
+            "day": "2025-12-04",
+            "contributors": {
+                "sleep_recovery": 59.0,
+                "daytime_recovery": 52.7,
+                "stress": 55.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "c4bd9e78-3c9a-4f16-9cd9-14c6a6260743",
+            "day": "2025-12-05",
+            "contributors": {
+                "sleep_recovery": 60.7,
+                "daytime_recovery": 53.3,
+                "stress": 58.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "af72fa30-afed-40a8-94fc-953aecde0942",
+            "day": "2025-12-06",
+            "contributors": {
+                "sleep_recovery": 61.0,
+                "daytime_recovery": 53.4,
+                "stress": 58.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "c5774bbf-82a8-4f41-8d3d-2957e072550b",
+            "day": "2025-12-07",
+            "contributors": {
+                "sleep_recovery": 56.8,
+                "daytime_recovery": 49.9,
+                "stress": 60.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "17050189-e95f-4ec3-baf2-a0792d3ec384",
+            "day": "2025-12-08",
+            "contributors": {
+                "sleep_recovery": 56.8,
+                "daytime_recovery": 49.9,
+                "stress": 60.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "c44b5f8d-5116-4fc9-8063-e97a2052f623",
+            "day": "2025-12-09",
+            "contributors": {
+                "sleep_recovery": 58.2,
+                "daytime_recovery": 49.7,
+                "stress": 64.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "fb67926f-bd28-4a60-bafa-b957cd25183e",
+            "day": "2025-12-10",
+            "contributors": {
+                "sleep_recovery": 55.4,
+                "daytime_recovery": 48.0,
+                "stress": 64.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "0751e1f8-80df-4eb9-ad7a-fd5618a1d76c",
+            "day": "2025-12-11",
+            "contributors": {
+                "sleep_recovery": 54.6,
+                "daytime_recovery": 46.7,
+                "stress": 67.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "b50f6733-2b4d-4df4-a11e-3df2b8e4a871",
+            "day": "2025-12-12",
+            "contributors": {
+                "sleep_recovery": 54.7,
+                "daytime_recovery": 46.2,
+                "stress": 69.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d0d977bc-39dd-490c-bd07-e62e7fa3942c",
+            "day": "2025-12-13",
+            "contributors": {
+                "sleep_recovery": 53.2,
+                "daytime_recovery": 44.4,
+                "stress": 71.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "cab7582d-02ca-43b9-96f5-8e6ee740adba",
+            "day": "2025-12-14",
+            "contributors": {
+                "sleep_recovery": 52.4,
+                "daytime_recovery": 43.3,
+                "stress": 73.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d204e98d-299b-49a7-bd58-7b71d80e6415",
+            "day": "2025-12-15",
+            "contributors": {
+                "sleep_recovery": 52.6,
+                "daytime_recovery": 43.7,
+                "stress": 71.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "ae952aaa-0a05-49ff-8d42-316678e0a078",
+            "day": "2025-12-16",
+            "contributors": {
+                "sleep_recovery": 52.6,
+                "daytime_recovery": 43.6,
+                "stress": 71.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "9dad50ab-6295-4375-89de-b03189113036",
+            "day": "2025-12-17",
+            "contributors": {
+                "sleep_recovery": 51.3,
+                "daytime_recovery": 42.6,
+                "stress": 72.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "1d4a1a72-0606-4a8f-bfa8-d02e23e623fc",
+            "day": "2025-12-18",
+            "contributors": {
+                "sleep_recovery": 48.7,
+                "daytime_recovery": 40.9,
+                "stress": 72.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "554d8ec3-67d5-45a0-a778-9c457f5ed26d",
+            "day": "2025-12-19",
+            "contributors": {
+                "sleep_recovery": 44.7,
+                "daytime_recovery": 37.4,
+                "stress": 75.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "03ec79db-0190-4b05-ace5-b2407d2be1f6",
+            "day": "2025-12-20",
+            "contributors": {
+                "sleep_recovery": 41.6,
+                "daytime_recovery": 34.6,
+                "stress": 77.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "0860bbf5-7f50-411c-9745-0282d500a3d2",
+            "day": "2025-12-21",
+            "contributors": {
+                "sleep_recovery": 37.6,
+                "daytime_recovery": 31.3,
+                "stress": 78.9
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "42988ba8-1b56-43dd-ab6c-fd2c04a7e998",
+            "day": "2025-12-22",
+            "contributors": {
+                "sleep_recovery": 37.1,
+                "daytime_recovery": 30.5,
+                "stress": 80.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "170b02d1-629a-4831-b120-ef2aef984b1f",
+            "day": "2025-12-23",
+            "contributors": {
+                "sleep_recovery": 33.0,
+                "daytime_recovery": 27.7,
+                "stress": 80.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b2984450-675b-4699-8fd6-e575110d5026",
+            "day": "2025-12-24",
+            "contributors": {
+                "sleep_recovery": 32.8,
+                "daytime_recovery": 26.9,
+                "stress": 82.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "9bcc2e89-dc8a-4d30-8880-af5d23989d03",
+            "day": "2025-12-25",
+            "contributors": {
+                "sleep_recovery": 30.9,
+                "daytime_recovery": 25.1,
+                "stress": 84.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "56c28285-dfa6-46ec-a7f2-295862c1c240",
+            "day": "2025-12-26",
+            "contributors": {
+                "sleep_recovery": 30.8,
+                "daytime_recovery": 25.0,
+                "stress": 84.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "182ac523-52d2-4f88-90b0-a60ca75c950b",
+            "day": "2025-12-27",
+            "contributors": {
+                "sleep_recovery": 29.6,
+                "daytime_recovery": 24.2,
+                "stress": 83.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e19f76f3-bb8c-409a-a49d-b9ae9399d629",
+            "day": "2025-12-28",
+            "contributors": {
+                "sleep_recovery": 28.5,
+                "daytime_recovery": 23.4,
+                "stress": 83.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "2a4605f8-32cb-4d42-8b5e-503f4063ece4",
+            "day": "2025-12-29",
+            "contributors": {
+                "sleep_recovery": 24.8,
+                "daytime_recovery": 20.5,
+                "stress": 85.3
+            },
+            "level": "limited"
+        },
+        {
+            "id": "89bbfc75-9c1d-4ce6-b2d4-51b0341d4690",
+            "day": "2025-12-30",
+            "contributors": {
+                "sleep_recovery": 23.1,
+                "daytime_recovery": 19.6,
+                "stress": 84.2
+            },
+            "level": "limited"
+        },
+        {
+            "id": "37a6c463-89a6-4cd4-a4c3-868ee6685485",
+            "day": "2025-12-31",
+            "contributors": {
+                "sleep_recovery": 20.6,
+                "daytime_recovery": 18.1,
+                "stress": 83.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "82104f80-8fd7-4520-9d50-7286624e7535",
+            "day": "2026-01-01",
+            "contributors": {
+                "sleep_recovery": 20.1,
+                "daytime_recovery": 17.5,
+                "stress": 83.5
+            },
+            "level": "limited"
+        },
+        {
+            "id": "6f310068-8737-4b3f-b60c-bf38ecdc6998",
+            "day": "2026-01-02",
+            "contributors": {
+                "sleep_recovery": 19.6,
+                "daytime_recovery": 17.3,
+                "stress": 82.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "b795d838-0dba-4f4b-9162-3994bae0d0d0",
+            "day": "2026-01-03",
+            "contributors": {
+                "sleep_recovery": 19.4,
+                "daytime_recovery": 17.2,
+                "stress": 81.3
+            },
+            "level": "limited"
+        },
+        {
+            "id": "3c4d335c-dca1-43dd-9717-777ad3ebd2e6",
+            "day": "2026-01-04",
+            "contributors": {
+                "sleep_recovery": 21.0,
+                "daytime_recovery": 18.7,
+                "stress": 80.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "1bf9e8b5-c92d-4359-a441-1bc7d8405d1c",
+            "day": "2026-01-05",
+            "contributors": {
+                "sleep_recovery": 19.3,
+                "daytime_recovery": 17.5,
+                "stress": 80.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "95d007ab-4ec0-411b-93ec-22d2e622697f",
+            "day": "2026-01-06",
+            "contributors": {
+                "sleep_recovery": 20.0,
+                "daytime_recovery": 18.9,
+                "stress": 76.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "54af6635-2177-4271-8838-72a4969c55f8",
+            "day": "2026-01-07",
+            "contributors": {
+                "sleep_recovery": 21.0,
+                "daytime_recovery": 21.7,
+                "stress": 69.5
+            },
+            "level": "limited"
+        },
+        {
+            "id": "4e65efa5-f6e5-472a-b645-d64510ffbfa0",
+            "day": "2026-01-08",
+            "contributors": {
+                "sleep_recovery": 21.2,
+                "daytime_recovery": 22.3,
+                "stress": 67.0
+            },
+            "level": "limited"
+        },
+        {
+            "id": "8d79b0b4-0a7a-45b2-8ab4-a4891161f063",
+            "day": "2026-01-09",
+            "contributors": {
+                "sleep_recovery": 21.2,
+                "daytime_recovery": 22.3,
+                "stress": 66.9
+            },
+            "level": "limited"
+        },
+        {
+            "id": "21e7c486-3942-488e-97e7-6e122fd663f9",
+            "day": "2026-01-10",
+            "contributors": {
+                "sleep_recovery": 22.7,
+                "daytime_recovery": 24.5,
+                "stress": 62.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "300be586-06b0-4b37-807e-ad14db6a7306",
+            "day": "2026-01-11",
+            "contributors": {
+                "sleep_recovery": 24.9,
+                "daytime_recovery": 26.1,
+                "stress": 62.3
+            },
+            "level": "limited"
+        },
+        {
+            "id": "bd509466-8ff0-4a36-862b-3da314fe9d22",
+            "day": "2026-01-12",
+            "contributors": {
+                "sleep_recovery": 24.1,
+                "daytime_recovery": 26.5,
+                "stress": 58.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "57078712-e607-4868-b0a7-9d5f9a12dd9b",
+            "day": "2026-01-13",
+            "contributors": {
+                "sleep_recovery": 24.4,
+                "daytime_recovery": 26.6,
+                "stress": 58.9
+            },
+            "level": "limited"
+        },
+        {
+            "id": "552ed8a9-e361-4892-9132-a331b3592fcd",
+            "day": "2026-01-14",
+            "contributors": {
+                "sleep_recovery": 27.7,
+                "daytime_recovery": 29.3,
+                "stress": 57.5
+            },
+            "level": "limited"
+        },
+        {
+            "id": "49bbf791-02bb-4559-aa03-bcfca752e344",
+            "day": "2026-01-15",
+            "contributors": {
+                "sleep_recovery": 28.9,
+                "daytime_recovery": 30.5,
+                "stress": 55.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "e8707a92-20d8-4a2a-bc95-5320518bf844",
+            "day": "2026-01-16",
+            "contributors": {
+                "sleep_recovery": 30.2,
+                "daytime_recovery": 32.2,
+                "stress": 53.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "4e4b31f3-0b54-4a8d-94bd-001906a771d7",
+            "day": "2026-01-17",
+            "contributors": {
+                "sleep_recovery": 30.9,
+                "daytime_recovery": 33.2,
+                "stress": 51.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "b4444d97-6e1b-4b6f-8e9d-4d7268e1994d",
+            "day": "2026-01-18",
+            "contributors": {
+                "sleep_recovery": 31.8,
+                "daytime_recovery": 33.8,
+                "stress": 51.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "291c3d48-c12a-4f8c-bbd4-b5f5c39f3e40",
+            "day": "2026-01-19",
+            "contributors": {
+                "sleep_recovery": 32.9,
+                "daytime_recovery": 35.0,
+                "stress": 49.9
+            },
+            "level": "limited"
+        },
+        {
+            "id": "2aa736c6-8c8b-477b-a59b-c9090e356822",
+            "day": "2026-01-20",
+            "contributors": {
+                "sleep_recovery": 34.0,
+                "daytime_recovery": 35.8,
+                "stress": 48.9
+            },
+            "level": "limited"
+        },
+        {
+            "id": "d6b4f8f0-9486-490d-997e-79a655b8b085",
+            "day": "2026-01-21",
+            "contributors": {
+                "sleep_recovery": 34.4,
+                "daytime_recovery": 35.2,
+                "stress": 51.8
+            },
+            "level": "limited"
+        },
+        {
+            "id": "ffd03f04-9f0b-4873-abca-039585079c9a",
+            "day": "2026-01-22",
+            "contributors": {
+                "sleep_recovery": 34.8,
+                "daytime_recovery": 34.9,
+                "stress": 53.4
+            },
+            "level": "limited"
+        },
+        {
+            "id": "ccc43ddd-ef45-456b-b73d-e8d084df6f26",
+            "day": "2026-01-23",
+            "contributors": {
+                "sleep_recovery": 35.9,
+                "daytime_recovery": 35.4,
+                "stress": 54.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "fec356e8-eeb0-4311-8449-c263a2cd974e",
+            "day": "2026-01-24",
+            "contributors": {
+                "sleep_recovery": 33.1,
+                "daytime_recovery": 32.5,
+                "stress": 57.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "2d08a7cd-d5e0-4588-9b02-c9cf6aa4390e",
+            "day": "2026-01-25",
+            "contributors": {
+                "sleep_recovery": 30.1,
+                "daytime_recovery": 29.8,
+                "stress": 59.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "35d942ac-9620-4d70-bfda-dc216374b9b2",
+            "day": "2026-01-26",
+            "contributors": {
+                "sleep_recovery": 31.2,
+                "daytime_recovery": 30.3,
+                "stress": 60.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "b099056f-ee12-49f8-9af7-ea0ba6a8212d",
+            "day": "2026-01-27",
+            "contributors": {
+                "sleep_recovery": 30.5,
+                "daytime_recovery": 29.7,
+                "stress": 60.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "5bfa7188-fda1-4f4f-9951-265a45145175",
+            "day": "2026-01-28",
+            "contributors": {
+                "sleep_recovery": 29.0,
+                "daytime_recovery": 27.9,
+                "stress": 62.3
+            },
+            "level": "limited"
+        },
+        {
+            "id": "561fbef6-5c1a-4722-a4af-210ad2782a65",
+            "day": "2026-01-29",
+            "contributors": {
+                "sleep_recovery": 28.9,
+                "daytime_recovery": 27.5,
+                "stress": 64.3
+            },
+            "level": "limited"
+        },
+        {
+            "id": "d6aa1beb-4824-4f52-82c0-a6685bc95f37",
+            "day": "2026-01-30",
+            "contributors": {
+                "sleep_recovery": 29.4,
+                "daytime_recovery": 27.3,
+                "stress": 66.2
+            },
+            "level": "limited"
+        },
+        {
+            "id": "7ce7ab4a-cebc-4b02-98f9-51f91a6feb15",
+            "day": "2026-01-31",
+            "contributors": {
+                "sleep_recovery": 28.4,
+                "daytime_recovery": 25.8,
+                "stress": 69.3
+            },
+            "level": "limited"
+        },
+        {
+            "id": "e86abc69-8360-4e84-96d4-b1e6830bde77",
+            "day": "2026-02-01",
+            "contributors": {
+                "sleep_recovery": 26.3,
+                "daytime_recovery": 24.0,
+                "stress": 70.9
+            },
+            "level": "limited"
+        },
+        {
+            "id": "ffee65be-9af6-4add-980c-aa96b95e4614",
+            "day": "2026-02-02",
+            "contributors": {
+                "sleep_recovery": 27.0,
+                "daytime_recovery": 25.1,
+                "stress": 69.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "82a177c3-3bcb-4d8f-9099-4aee10fe0525",
+            "day": "2026-02-03",
+            "contributors": {
+                "sleep_recovery": 25.8,
+                "daytime_recovery": 23.7,
+                "stress": 71.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "9ad709d4-4952-4658-a8f0-62c355bd9c9c",
+            "day": "2026-02-04",
+            "contributors": {
+                "sleep_recovery": 25.1,
+                "daytime_recovery": 23.0,
+                "stress": 72.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "c5ac28a7-f61a-4ade-ad65-b144cbc503b5",
+            "day": "2026-02-06",
+            "contributors": {
+                "sleep_recovery": 23.4,
+                "daytime_recovery": 21.7,
+                "stress": 73.4
+            },
+            "level": "limited"
+        },
+        {
+            "id": "933b357b-01e6-4b64-baad-27ca5f967978",
+            "day": "2026-02-07",
+            "contributors": {
+                "sleep_recovery": 23.6,
+                "daytime_recovery": 21.5,
+                "stress": 73.9
+            },
+            "level": "limited"
+        },
+        {
+            "id": "86d6e868-b06f-4823-9b7b-86915f9457e8",
+            "day": "2026-02-08",
+            "contributors": {
+                "sleep_recovery": 25.4,
+                "daytime_recovery": 22.4,
+                "stress": 75.4
+            },
+            "level": "limited"
+        },
+        {
+            "id": "ddbf9a4c-9fb3-470b-ae21-88dc888e14b7",
+            "day": "2026-02-09",
+            "contributors": {
+                "sleep_recovery": 24.6,
+                "daytime_recovery": 22.7,
+                "stress": 72.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "0a628475-55a0-4de0-b91c-726ce55a3051",
+            "day": "2026-02-10",
+            "contributors": {
+                "sleep_recovery": 24.3,
+                "daytime_recovery": 22.7,
+                "stress": 71.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "e4531335-f8af-44b7-8649-cee03115399c",
+            "day": "2026-02-11",
+            "contributors": {
+                "sleep_recovery": 25.0,
+                "daytime_recovery": 23.2,
+                "stress": 71.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "73ce8ec0-f1db-47bf-b663-4db89afaeefd",
+            "day": "2026-02-12",
+            "contributors": {
+                "sleep_recovery": 24.6,
+                "daytime_recovery": 22.8,
+                "stress": 71.8
+            },
+            "level": "limited"
+        },
+        {
+            "id": "554d4283-0a42-4843-ae12-d1654078e349",
+            "day": "2026-02-13",
+            "contributors": {
+                "sleep_recovery": 24.0,
+                "daytime_recovery": 22.5,
+                "stress": 70.4
+            },
+            "level": "limited"
+        },
+        {
+            "id": "ebac3734-88ee-40ca-b584-3580151790d8",
+            "day": "2026-02-14",
+            "contributors": {
+                "sleep_recovery": 23.9,
+                "daytime_recovery": 23.5,
+                "stress": 65.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "e98b9cbe-aa2d-4229-90ec-67c10674cb3b",
+            "day": "2026-02-15",
+            "contributors": {
+                "sleep_recovery": 27.7,
+                "daytime_recovery": 26.6,
+                "stress": 63.6
+            },
+            "level": "limited"
+        },
+        {
+            "id": "1749aeca-2824-4865-bfaa-c7f9280807cd",
+            "day": "2026-02-16",
+            "contributors": {
+                "sleep_recovery": 27.3,
+                "daytime_recovery": 26.6,
+                "stress": 62.8
+            },
+            "level": "limited"
+        },
+        {
+            "id": "0b410b47-1360-4988-ada1-00b55f700347",
+            "day": "2026-02-17",
+            "contributors": {
+                "sleep_recovery": 28.7,
+                "daytime_recovery": 28.3,
+                "stress": 59.4
+            },
+            "level": "limited"
+        },
+        {
+            "id": "06e0865c-4c3c-414a-af75-94a87300c701",
+            "day": "2026-02-18",
+            "contributors": {
+                "sleep_recovery": 28.9,
+                "daytime_recovery": 28.7,
+                "stress": 58.4
+            },
+            "level": "limited"
+        },
+        {
+            "id": "84a007d2-b2cc-4417-8865-27f2d2969b66",
+            "day": "2026-02-19",
+            "contributors": {
+                "sleep_recovery": 29.9,
+                "daytime_recovery": 30.0,
+                "stress": 56.2
+            },
+            "level": "limited"
+        },
+        {
+            "id": "c91e8208-d48e-44bc-b9f5-140cd5658d2b",
+            "day": "2026-02-20",
+            "contributors": {
+                "sleep_recovery": 30.3,
+                "daytime_recovery": 30.6,
+                "stress": 55.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "a3a8e6bc-038c-45df-a4bd-6624189fb1ba",
+            "day": "2026-02-21",
+            "contributors": {
+                "sleep_recovery": 32.1,
+                "daytime_recovery": 33.0,
+                "stress": 51.1
+            },
+            "level": "limited"
+        },
+        {
+            "id": "f2defa0f-4b21-4adc-bd2a-62f5809ca232",
+            "day": "2026-02-22",
+            "contributors": {
+                "sleep_recovery": 35.7,
+                "daytime_recovery": 35.7,
+                "stress": 50.3
+            },
+            "level": "limited"
+        },
+        {
+            "id": "6701c739-69e1-478d-831d-dc1762765c4f",
+            "day": "2026-02-23",
+            "contributors": {
+                "sleep_recovery": 35.8,
+                "daytime_recovery": 35.8,
+                "stress": 49.5
+            },
+            "level": "limited"
+        },
+        {
+            "id": "408b265e-8e32-47f1-9ee5-a4ab0b7dc252",
+            "day": "2026-02-24",
+            "contributors": {
+                "sleep_recovery": 36.8,
+                "daytime_recovery": 36.7,
+                "stress": 48.7
+            },
+            "level": "limited"
+        },
+        {
+            "id": "cfc51ce3-54a1-408e-b0a0-71bcdc219df6",
+            "day": "2026-02-25",
+            "contributors": {
+                "sleep_recovery": 39.6,
+                "daytime_recovery": 39.1,
+                "stress": 45.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b160504d-7eae-4271-a514-9068993efd34",
+            "day": "2026-02-26",
+            "contributors": {
+                "sleep_recovery": 40.8,
+                "daytime_recovery": 40.5,
+                "stress": 43.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "4cf2090c-a5f1-4e4d-8250-8b3510d7ae89",
+            "day": "2026-02-27",
+            "contributors": {
+                "sleep_recovery": 43.2,
+                "daytime_recovery": 41.9,
+                "stress": 43.8
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e1deefc2-b1f6-48d9-b0f1-ca8387dfad7a",
+            "day": "2026-02-28",
+            "contributors": {
+                "sleep_recovery": 44.3,
+                "daytime_recovery": 41.6,
+                "stress": 48.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "5d88dd1d-03bf-42d8-80f1-39d566fc8f91",
+            "day": "2026-03-01",
+            "contributors": {
+                "sleep_recovery": 43.3,
+                "daytime_recovery": 40.6,
+                "stress": 48.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "344daa15-3c35-4517-a4f1-9556c0fcb0d4",
+            "day": "2026-03-02",
+            "contributors": {
+                "sleep_recovery": 40.9,
+                "daytime_recovery": 39.5,
+                "stress": 46.8
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "af5ad0b9-c19c-41ed-8433-fbf65031932e",
+            "day": "2026-03-03",
+            "contributors": {
+                "sleep_recovery": 40.1,
+                "daytime_recovery": 39.6,
+                "stress": 45.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "8f56c956-c6f1-4fa8-af2e-2ac054f9ce7d",
+            "day": "2026-03-04",
+            "contributors": {
+                "sleep_recovery": 42.9,
+                "daytime_recovery": 40.9,
+                "stress": 48.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "9019f8e5-43a3-4903-b66b-bc0123eb7593",
+            "day": "2026-03-05",
+            "contributors": {
+                "sleep_recovery": 42.4,
+                "daytime_recovery": 40.2,
+                "stress": 49.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "ed48f00a-5c35-404f-bc4e-06d69fda8958",
+            "day": "2026-03-06",
+            "contributors": {
+                "sleep_recovery": 42.7,
+                "daytime_recovery": 40.8,
+                "stress": 48.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "440e28a7-b56d-47de-9aec-2cc9dc14b404",
+            "day": "2026-03-07",
+            "contributors": {
+                "sleep_recovery": 43.7,
+                "daytime_recovery": 41.2,
+                "stress": 49.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "be07772e-0b38-4aa2-adbf-5de792cb7cd7",
+            "day": "2026-03-08",
+            "contributors": {
+                "sleep_recovery": 43.1,
+                "daytime_recovery": 40.5,
+                "stress": 50.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b676d398-17a9-4693-897a-d077e6d19392",
+            "day": "2026-03-09",
+            "contributors": {
+                "sleep_recovery": 45.7,
+                "daytime_recovery": 43.3,
+                "stress": 47.9
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "73b2bbfa-e00d-4581-8f54-5503f74cc36b",
+            "day": "2026-03-10",
+            "contributors": {
+                "sleep_recovery": 46.3,
+                "daytime_recovery": 44.0,
+                "stress": 46.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "2844b81f-bead-4bbb-9059-6b4a836c08b6",
+            "day": "2026-03-11",
+            "contributors": {
+                "sleep_recovery": 46.3,
+                "daytime_recovery": 43.6,
+                "stress": 48.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "5e99a583-0002-4730-8428-0f13c152897a",
+            "day": "2026-03-12",
+            "contributors": {
+                "sleep_recovery": 46.5,
+                "daytime_recovery": 43.8,
+                "stress": 48.8
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "37247360-3c0a-4612-b182-86cc4eb12850",
+            "day": "2026-03-13",
+            "contributors": {
+                "sleep_recovery": 44.3,
+                "daytime_recovery": 42.9,
+                "stress": 47.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "ba1bd1d9-2211-4cfb-8329-e548c6a6b77d",
+            "day": "2026-03-14",
+            "contributors": {
+                "sleep_recovery": 45.0,
+                "daytime_recovery": 44.0,
+                "stress": 44.5
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "2a305ff4-5905-4e71-b861-8c9029d465ed",
+            "day": "2026-03-15",
+            "contributors": {
+                "sleep_recovery": 47.8,
+                "daytime_recovery": 46.9,
+                "stress": 41.8
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "70da8643-f18d-4232-8496-0bfd2855f4bb",
+            "day": "2026-03-16",
+            "contributors": {
+                "sleep_recovery": 50.9,
+                "daytime_recovery": 48.8,
+                "stress": 42.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "561dd091-f784-4318-bdc7-e430cf9214e7",
+            "day": "2026-03-17",
+            "contributors": {
+                "sleep_recovery": 53.0,
+                "daytime_recovery": 50.5,
+                "stress": 42.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d4a585f4-24e2-4a67-99e1-a6b870cb0a52",
+            "day": "2026-03-18",
+            "contributors": {
+                "sleep_recovery": 51.5,
+                "daytime_recovery": 49.7,
+                "stress": 41.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5a46cb4b-751e-4470-b035-a0368eb6aec7",
+            "day": "2026-03-19",
+            "contributors": {
+                "sleep_recovery": 54.2,
+                "daytime_recovery": 51.6,
+                "stress": 40.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "566dcc52-95e8-4209-8375-daa912553224",
+            "day": "2026-03-20",
+            "contributors": {
+                "sleep_recovery": 55.3,
+                "daytime_recovery": 52.2,
+                "stress": 40.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d548bf56-4350-4d37-9fab-e291c91935fc",
+            "day": "2026-03-21",
+            "contributors": {
+                "sleep_recovery": 54.1,
+                "daytime_recovery": 51.3,
+                "stress": 40.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "95d6febb-c9de-44ce-98fc-cd94fc95eb9a",
+            "day": "2026-03-22",
+            "contributors": {
+                "sleep_recovery": 53.9,
+                "daytime_recovery": 51.5,
+                "stress": 38.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5d4786da-e3ce-49f0-831f-5df5ea846999",
+            "day": "2026-03-23",
+            "contributors": {
+                "sleep_recovery": 51.7,
+                "daytime_recovery": 50.0,
+                "stress": 38.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "95209699-ea78-4abc-aa4a-865b09f177b3",
+            "day": "2026-03-24",
+            "contributors": {
+                "sleep_recovery": 50.5,
+                "daytime_recovery": 49.2,
+                "stress": 38.5
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "9c084cb8-d947-4377-838d-0d4e957a790d",
+            "day": "2026-03-25",
+            "contributors": {
+                "sleep_recovery": 48.8,
+                "daytime_recovery": 47.9,
+                "stress": 39.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "6e548a1d-32bf-46f4-9649-1f091a2c7602",
+            "day": "2026-03-26",
+            "contributors": {
+                "sleep_recovery": 50.0,
+                "daytime_recovery": 48.5,
+                "stress": 39.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "9907a0f4-d6e3-445b-9bf2-fd6553450a6d",
+            "day": "2026-03-28",
+            "contributors": {
+                "sleep_recovery": 51.2,
+                "daytime_recovery": 48.6,
+                "stress": 42.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b07526cc-80a9-4c79-b2ed-a5a45bc312c4",
+            "day": "2026-03-29",
+            "contributors": {
+                "sleep_recovery": 51.7,
+                "daytime_recovery": 49.1,
+                "stress": 41.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "d179a954-4ac6-4fe1-9d9f-697426b000aa",
+            "day": "2026-03-30",
+            "contributors": {
+                "sleep_recovery": 54.2,
+                "daytime_recovery": 51.1,
+                "stress": 40.5
+            },
+            "level": "solid"
+        },
+        {
+            "id": "26fc2722-dcd2-44b9-9e01-16941f370efa",
+            "day": "2026-03-31",
+            "contributors": {
+                "sleep_recovery": 54.4,
+                "daytime_recovery": 51.5,
+                "stress": 38.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "811cfaf3-1440-4293-9e90-c47566355526",
+            "day": "2026-04-01",
+            "contributors": {
+                "sleep_recovery": 56.3,
+                "daytime_recovery": 54.2,
+                "stress": 34.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "66340a42-a024-4f87-8a44-69554ff1f8c2",
+            "day": "2026-04-02",
+            "contributors": {
+                "sleep_recovery": 53.5,
+                "daytime_recovery": 52.7,
+                "stress": 32.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5860ce1c-e03d-45ff-919a-c381449dd6c6",
+            "day": "2026-04-03",
+            "contributors": {
+                "sleep_recovery": 53.7,
+                "daytime_recovery": 53.2,
+                "stress": 30.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "db3162de-ac75-4f59-ba63-bd604c4d2cfb",
+            "day": "2026-04-04",
+            "contributors": {
+                "sleep_recovery": 54.0,
+                "daytime_recovery": 53.8,
+                "stress": 29.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "766a424a-06ae-47d3-8c66-db6db15e68b6",
+            "day": "2026-04-05",
+            "contributors": {
+                "sleep_recovery": 54.3,
+                "daytime_recovery": 53.7,
+                "stress": 31.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "4cb1a5d1-dc64-4932-a9fc-1b81073db97c",
+            "day": "2026-04-07",
+            "contributors": {
+                "sleep_recovery": 59.5,
+                "daytime_recovery": 57.7,
+                "stress": 29.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "3819b9af-da82-47d5-aab6-0aa75abcf897",
+            "day": "2026-04-08",
+            "contributors": {
+                "sleep_recovery": 58.7,
+                "daytime_recovery": 57.8,
+                "stress": 28.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5cde03ed-bb47-4864-9513-2d4dcacf03ff",
+            "day": "2026-04-09",
+            "contributors": {
+                "sleep_recovery": 59.4,
+                "daytime_recovery": 58.9,
+                "stress": 26.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "1baa9d9c-c87c-418d-9dd6-e1367f77b711",
+            "day": "2026-04-11",
+            "contributors": {
+                "sleep_recovery": 60.5,
+                "daytime_recovery": 60.8,
+                "stress": 23.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "8890fb0b-1380-49f3-be5a-2f24df2f0718",
+            "day": "2026-04-12",
+            "contributors": {
+                "sleep_recovery": 64.1,
+                "daytime_recovery": 64.4,
+                "stress": 21.6
+            },
+            "level": "solid"
+        },
+        {
+            "id": "4dded7b9-60e5-4c2f-b80a-e6d8a8b3ee40",
+            "day": "2026-04-13",
+            "contributors": {
+                "sleep_recovery": 62.1,
+                "daytime_recovery": 63.5,
+                "stress": 20.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "57851f1f-c60a-4253-bbc4-a6af74c29af1",
+            "day": "2026-04-14",
+            "contributors": {
+                "sleep_recovery": 62.4,
+                "daytime_recovery": 63.8,
+                "stress": 21.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "9fdd625b-0226-4f12-b892-eee3647076a1",
+            "day": "2026-04-15",
+            "contributors": {
+                "sleep_recovery": 62.3,
+                "daytime_recovery": 62.8,
+                "stress": 23.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "0df18219-260e-4d76-b3aa-35d6e82f5c99",
+            "day": "2026-04-16",
+            "contributors": {
+                "sleep_recovery": 61.3,
+                "daytime_recovery": 61.4,
+                "stress": 26.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "171530ab-cf56-467f-8374-15b5ef470775",
+            "day": "2026-04-17",
+            "contributors": {
+                "sleep_recovery": 61.4,
+                "daytime_recovery": 61.1,
+                "stress": 27.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "b70321bc-66d5-472b-894a-491fe6fe23a6",
+            "day": "2026-04-18",
+            "contributors": {
+                "sleep_recovery": 60.2,
+                "daytime_recovery": 60.1,
+                "stress": 28.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "5cd65f88-489e-4762-b614-b16102d6fb73",
+            "day": "2026-04-19",
+            "contributors": {
+                "sleep_recovery": 63.8,
+                "daytime_recovery": 62.5,
+                "stress": 29.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "62454d37-1ed3-46f6-b07f-4fea301f3fcd",
+            "day": "2026-04-21",
+            "contributors": {
+                "sleep_recovery": 63.2,
+                "daytime_recovery": 62.5,
+                "stress": 27.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "7cb812bb-3f74-47f6-90cf-015ac679f03c",
+            "day": "2026-04-23",
+            "contributors": {
+                "sleep_recovery": 60.4,
+                "daytime_recovery": 59.6,
+                "stress": 30.0
+            },
+            "level": "solid"
+        },
+        {
+            "id": "b52100ac-a8fb-4af7-be21-27c65415cf1b",
+            "day": "2026-04-24",
+            "contributors": {
+                "sleep_recovery": 56.8,
+                "daytime_recovery": 55.7,
+                "stress": 35.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "688aa3d6-f92c-47d5-bd9f-a8bfebdb9214",
+            "day": "2026-04-25",
+            "contributors": {
+                "sleep_recovery": 54.1,
+                "daytime_recovery": 52.7,
+                "stress": 38.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "ba9e98b5-a253-4030-aee4-688c5a43d391",
+            "day": "2026-04-26",
+            "contributors": {
+                "sleep_recovery": 52.5,
+                "daytime_recovery": 49.9,
+                "stress": 43.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "83a102a6-de0e-43d7-aa8e-931deff9cc11",
+            "day": "2026-04-27",
+            "contributors": {
+                "sleep_recovery": 52.8,
+                "daytime_recovery": 48.5,
+                "stress": 49.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "c62d7cc9-52f1-46a2-a57a-7198b0b6837c",
+            "day": "2026-04-28",
+            "contributors": {
+                "sleep_recovery": 54.7,
+                "daytime_recovery": 49.3,
+                "stress": 50.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "abbaca63-f48b-4669-bcdf-f24d23d2f8aa",
+            "day": "2026-04-29",
+            "contributors": {
+                "sleep_recovery": 50.8,
+                "daytime_recovery": 46.0,
+                "stress": 52.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "54fbc0ea-b920-444a-a0ad-8a054024a616",
+            "day": "2026-04-30",
+            "contributors": {
+                "sleep_recovery": 46.2,
+                "daytime_recovery": 43.3,
+                "stress": 50.5
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "cf92d239-abf5-4219-a1af-571156a47c66",
+            "day": "2026-05-01",
+            "contributors": {
+                "sleep_recovery": 48.4,
+                "daytime_recovery": 44.2,
+                "stress": 52.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "be2386d8-64a4-41fc-979b-77a7a8238ae1",
+            "day": "2026-05-02",
+            "contributors": {
+                "sleep_recovery": 50.7,
+                "daytime_recovery": 46.2,
+                "stress": 51.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "63d041c8-6460-4d84-9ce7-2121bb3c3a1b",
+            "day": "2026-05-03",
+            "contributors": {
+                "sleep_recovery": 48.0,
+                "daytime_recovery": 44.5,
+                "stress": 50.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "218f7e54-c92c-4945-9768-72a8ab6dd046",
+            "day": "2026-05-04",
+            "contributors": {
+                "sleep_recovery": 49.6,
+                "daytime_recovery": 45.8,
+                "stress": 50.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "fefad278-6a68-4755-b0c7-f0110471c97e",
+            "day": "2026-05-05",
+            "contributors": {
+                "sleep_recovery": 49.1,
+                "daytime_recovery": 45.6,
+                "stress": 49.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "562c7b38-e633-4b4a-9fb8-5740edf00541",
+            "day": "2026-05-06",
+            "contributors": {
+                "sleep_recovery": 46.3,
+                "daytime_recovery": 44.3,
+                "stress": 47.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "87a48480-2de2-4770-9578-aa1ffeb8b834",
+            "day": "2026-05-07",
+            "contributors": {
+                "sleep_recovery": 47.9,
+                "daytime_recovery": 46.1,
+                "stress": 45.5
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "26741cbd-9554-46eb-bdae-0f565d64e50d",
+            "day": "2026-05-08",
+            "contributors": {
+                "sleep_recovery": 49.6,
+                "daytime_recovery": 48.4,
+                "stress": 42.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "5ac1fc17-6ee1-4489-9ff8-d6b2d0534459",
+            "day": "2026-05-09",
+            "contributors": {
+                "sleep_recovery": 48.9,
+                "daytime_recovery": 48.6,
+                "stress": 39.5
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "c2a54e4f-d759-44ba-a21c-cffc030c4b84",
+            "day": "2026-05-11",
+            "contributors": {
+                "sleep_recovery": 44.6,
+                "daytime_recovery": 46.7,
+                "stress": 36.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "1b0b3c40-fa02-401d-a686-9fecfa87ceaf",
+            "day": "2026-05-12",
+            "contributors": {
+                "sleep_recovery": 43.3,
+                "daytime_recovery": 46.6,
+                "stress": 34.9
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "edc6d79f-f6bd-4d1b-8b59-57b81707db8e",
+            "day": "2026-05-13",
+            "contributors": {
+                "sleep_recovery": 44.0,
+                "daytime_recovery": 47.6,
+                "stress": 33.8
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "c6f717c4-8826-4120-b0ba-db1c4c488474",
+            "day": "2026-05-14",
+            "contributors": {
+                "sleep_recovery": 46.6,
+                "daytime_recovery": 49.5,
+                "stress": 34.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "c51a706b-b1ea-4ae6-8972-214ee4dd0116",
+            "day": "2026-05-15",
+            "contributors": {
+                "sleep_recovery": 47.0,
+                "daytime_recovery": 50.8,
+                "stress": 32.1
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b1468f59-0a7a-4e09-a245-34ed0801e841",
+            "day": "2026-05-16",
+            "contributors": {
+                "sleep_recovery": 47.6,
+                "daytime_recovery": 50.2,
+                "stress": 35.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "e4b143b5-ade5-4f3d-b7ad-1e0701ca2fb1",
+            "day": "2026-05-17",
+            "contributors": {
+                "sleep_recovery": 45.9,
+                "daytime_recovery": 49.1,
+                "stress": 35.1
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "0b0ed635-4291-4773-89d7-f934b4cd7fff",
+            "day": "2026-05-18",
+            "contributors": {
+                "sleep_recovery": 45.2,
+                "daytime_recovery": 49.4,
+                "stress": 32.2
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "cdc59516-9575-4829-93d2-3ac5c63b27ef",
+            "day": "2026-05-19",
+            "contributors": {
+                "sleep_recovery": 47.9,
+                "daytime_recovery": 51.0,
+                "stress": 33.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "1cac21d2-3ad5-419d-87b8-c3af37ff143e",
+            "day": "2026-05-20",
+            "contributors": {
+                "sleep_recovery": 47.0,
+                "daytime_recovery": 49.5,
+                "stress": 36.6
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "52a3cd8f-7cd6-4b40-a68b-deea46db975e",
+            "day": "2026-05-21",
+            "contributors": {
+                "sleep_recovery": 45.2,
+                "daytime_recovery": 47.9,
+                "stress": 37.7
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "ef9efa11-edbd-435e-9c62-1380a28a29c2",
+            "day": "2026-05-22",
+            "contributors": {
+                "sleep_recovery": 45.6,
+                "daytime_recovery": 48.6,
+                "stress": 36.0
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b4025d27-224a-4109-b8a5-caa350e27883",
+            "day": "2026-05-23",
+            "contributors": {
+                "sleep_recovery": 46.3,
+                "daytime_recovery": 49.1,
+                "stress": 36.4
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "5c9aba38-3997-4eb7-8f1e-03d008bcd3f0",
+            "day": "2026-05-24",
+            "contributors": {
+                "sleep_recovery": 48.5,
+                "daytime_recovery": 51.1,
+                "stress": 35.3
+            },
+            "level": "adequate"
+        },
+        {
+            "id": "b159d705-d7a8-49f3-b477-efb490212dfb",
+            "day": "2026-05-25",
+            "contributors": {
+                "sleep_recovery": 51.6,
+                "daytime_recovery": 53.8,
+                "stress": 33.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "ccc6a76a-d133-4f50-bc5c-8ff674972813",
+            "day": "2026-05-26",
+            "contributors": {
+                "sleep_recovery": 53.5,
+                "daytime_recovery": 55.3,
+                "stress": 32.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "4939af34-fa1f-465c-b69c-f3a52fe763d8",
+            "day": "2026-05-27",
+            "contributors": {
+                "sleep_recovery": 55.6,
+                "daytime_recovery": 56.7,
+                "stress": 32.3
+            },
+            "level": "solid"
+        },
+        {
+            "id": "79bfab9f-a173-4a56-a4cc-7df70a1455cb",
+            "day": "2026-05-28",
+            "contributors": {
+                "sleep_recovery": 57.4,
+                "daytime_recovery": 58.8,
+                "stress": 29.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "6080d39d-33fa-413b-8e81-a8d182178d96",
+            "day": "2026-05-29",
+            "contributors": {
+                "sleep_recovery": 57.8,
+                "daytime_recovery": 58.9,
+                "stress": 30.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "c950de0a-7249-43e1-ab6f-1dd7103d67c5",
+            "day": "2026-05-30",
+            "contributors": {
+                "sleep_recovery": 59.8,
+                "daytime_recovery": 60.9,
+                "stress": 29.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "c186a117-f614-418a-9786-7cd6035ada33",
+            "day": "2026-05-31",
+            "contributors": {
+                "sleep_recovery": 62.0,
+                "daytime_recovery": 62.2,
+                "stress": 29.4
+            },
+            "level": "solid"
+        },
+        {
+            "id": "88f63007-6db8-4cdc-aab4-29e7abc0c1a7",
+            "day": "2026-06-01",
+            "contributors": {
+                "sleep_recovery": 61.9,
+                "daytime_recovery": 62.4,
+                "stress": 29.1
+            },
+            "level": "solid"
+        },
+        {
+            "id": "f77f01dc-6050-43b5-a176-365c4f371aae",
+            "day": "2026-06-02",
+            "contributors": {
+                "sleep_recovery": 61.6,
+                "daytime_recovery": 62.2,
+                "stress": 28.9
+            },
+            "level": "solid"
+        },
+        {
+            "id": "6313804d-b7b5-4071-9027-2902be54acc4",
+            "day": "2026-06-04",
+            "contributors": {
+                "sleep_recovery": 65.1,
+                "daytime_recovery": 65.2,
+                "stress": 27.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "79348e59-225d-40f1-8f7e-62cf19c24c68",
+            "day": "2026-06-05",
+            "contributors": {
+                "sleep_recovery": 65.6,
+                "daytime_recovery": 65.2,
+                "stress": 27.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "92c5ec0d-b73a-4260-8b28-77172a72b5ef",
+            "day": "2026-06-06",
+            "contributors": {
+                "sleep_recovery": 68.2,
+                "daytime_recovery": 66.9,
+                "stress": 28.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "1526836c-dbd7-471f-a1b7-f6f92ec1f7f7",
+            "day": "2026-06-07",
+            "contributors": {
+                "sleep_recovery": 67.0,
+                "daytime_recovery": 65.6,
+                "stress": 30.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "49c14fef-efe0-488f-9d4f-5449401c014e",
+            "day": "2026-06-08",
+            "contributors": {
+                "sleep_recovery": 65.0,
+                "daytime_recovery": 63.6,
+                "stress": 32.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "2da0e8f3-5db9-451e-8f7d-31a86460be9b",
+            "day": "2026-06-09",
+            "contributors": {
+                "sleep_recovery": 64.9,
+                "daytime_recovery": 64.2,
+                "stress": 30.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "d262c644-2f6c-49eb-8dc7-560f41b59625",
+            "day": "2026-06-10",
+            "contributors": {
+                "sleep_recovery": 63.4,
+                "daytime_recovery": 63.0,
+                "stress": 31.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "dd1561fb-681e-4d7f-ae0f-5b170ac3063c",
+            "day": "2026-06-11",
+            "contributors": {
+                "sleep_recovery": 62.8,
+                "daytime_recovery": 61.6,
+                "stress": 34.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "1ade3113-3fae-4a55-a952-7f3c63853cfe",
+            "day": "2026-06-12",
+            "contributors": {
+                "sleep_recovery": 65.3,
+                "daytime_recovery": 62.7,
+                "stress": 36.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "9e563bf0-583a-4ed6-bd5e-c0b1fd05e542",
+            "day": "2026-06-13",
+            "contributors": {
+                "sleep_recovery": 66.0,
+                "daytime_recovery": 62.4,
+                "stress": 39.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "d7725ef3-85af-4578-82f7-e56ddd49fe00",
+            "day": "2026-06-14",
+            "contributors": {
+                "sleep_recovery": 66.7,
+                "daytime_recovery": 61.7,
+                "stress": 43.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "e8e32a11-b5a1-418c-988a-149cfabf6627",
+            "day": "2026-06-15",
+            "contributors": {
+                "sleep_recovery": 63.9,
+                "daytime_recovery": 58.7,
+                "stress": 47.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "a304bd66-9129-4d00-af6c-f6fc482c5083",
+            "day": "2026-06-16",
+            "contributors": {
+                "sleep_recovery": 63.6,
+                "daytime_recovery": 58.5,
+                "stress": 47.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "ce7d4d06-54fd-43d4-8971-94ef2adbf57b",
+            "day": "2026-06-17",
+            "contributors": {
+                "sleep_recovery": 62.3,
+                "daytime_recovery": 58.0,
+                "stress": 46.7
+            },
+            "level": "strong"
+        },
+        {
+            "id": "9b4255db-1315-422d-98a9-0320fa6fcbdc",
+            "day": "2026-06-18",
+            "contributors": {
+                "sleep_recovery": 62.2,
+                "daytime_recovery": 57.8,
+                "stress": 47.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "71b4737a-6cfb-473a-bbbe-82bf64b2b770",
+            "day": "2026-06-19",
+            "contributors": {
+                "sleep_recovery": 62.7,
+                "daytime_recovery": 58.0,
+                "stress": 47.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "75abc1b2-e123-42b3-ac96-5ecf321e6995",
+            "day": "2026-06-20",
+            "contributors": {
+                "sleep_recovery": 62.8,
+                "daytime_recovery": 57.2,
+                "stress": 50.9
+            },
+            "level": "strong"
+        },
+        {
+            "id": "12d539ea-b639-4f35-9288-2950f530f57c",
+            "day": "2026-06-21",
+            "contributors": {
+                "sleep_recovery": 62.5,
+                "daytime_recovery": 56.3,
+                "stress": 53.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "393ccee5-1ac0-498d-a23c-73d44b2fd10f",
+            "day": "2026-06-22",
+            "contributors": {
+                "sleep_recovery": 64.3,
+                "daytime_recovery": 56.4,
+                "stress": 57.5
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3c32be96-4a0e-4ca9-8756-5061bbf755d7",
+            "day": "2026-06-23",
+            "contributors": {
+                "sleep_recovery": 63.3,
+                "daytime_recovery": 54.4,
+                "stress": 62.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "84b106dd-1484-4aad-a40b-d05b0b5c4849",
+            "day": "2026-06-26",
+            "contributors": {
+                "sleep_recovery": 62.4,
+                "daytime_recovery": 53.2,
+                "stress": 64.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "6032ed9a-fe64-42ad-beab-ffcc010b485c",
+            "day": "2026-06-27",
+            "contributors": {
+                "sleep_recovery": 60.5,
+                "daytime_recovery": 51.1,
+                "stress": 66.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "2cd104b3-ca99-499d-a950-4b4dfb433a51",
+            "day": "2026-06-28",
+            "contributors": {
+                "sleep_recovery": 58.3,
+                "daytime_recovery": 49.9,
+                "stress": 66.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "450682ae-7a9a-4595-9c01-3ac129ba5489",
+            "day": "2026-06-29",
+            "contributors": {
+                "sleep_recovery": 60.1,
+                "daytime_recovery": 51.7,
+                "stress": 63.4
+            },
+            "level": "strong"
+        },
+        {
+            "id": "16ebf9f8-4a8c-497f-bc96-7c4c64b10d6d",
+            "day": "2026-06-30",
+            "contributors": {
+                "sleep_recovery": 62.0,
+                "daytime_recovery": 51.6,
+                "stress": 68.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "3e401573-4e02-4833-800a-e9f3cf9cb3db",
+            "day": "2026-07-01",
+            "contributors": {
+                "sleep_recovery": 61.1,
+                "daytime_recovery": 49.8,
+                "stress": 72.1
+            },
+            "level": "strong"
+        },
+        {
+            "id": "402e5b16-755c-47bd-87a4-2ebd8616d034",
+            "day": "2026-07-03",
+            "contributors": {
+                "sleep_recovery": 62.5,
+                "daytime_recovery": 49.9,
+                "stress": 75.0
+            },
+            "level": "strong"
+        },
+        {
+            "id": "e286fe73-df26-45b0-ad0d-d130f96bed47",
+            "day": "2026-07-04",
+            "contributors": {
+                "sleep_recovery": 61.4,
+                "daytime_recovery": 51.3,
+                "stress": 67.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "505d138e-1612-43f2-88a2-fc501b27e8b3",
+            "day": "2026-07-05",
+            "contributors": {
+                "sleep_recovery": 60.6,
+                "daytime_recovery": 52.0,
+                "stress": 63.3
+            },
+            "level": "strong"
+        },
+        {
+            "id": "2531c526-654d-4c64-bba7-479e4169994d",
+            "day": "2026-07-06",
+            "contributors": {
+                "sleep_recovery": 60.4,
+                "daytime_recovery": 52.4,
+                "stress": 60.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "f0424738-99a3-4b03-939a-7f2958c8003e",
+            "day": "2026-07-07",
+            "contributors": {
+                "sleep_recovery": 59.3,
+                "daytime_recovery": 52.1,
+                "stress": 57.8
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d7972b6f-8806-4ac8-9912-70606f7e0313",
+            "day": "2026-07-08",
+            "contributors": {
+                "sleep_recovery": 61.5,
+                "daytime_recovery": 53.2,
+                "stress": 59.6
+            },
+            "level": "strong"
+        },
+        {
+            "id": "459bb67d-933c-4298-8b15-458bc9063197",
+            "day": "2026-07-13",
+            "contributors": {
+                "sleep_recovery": 63.2,
+                "daytime_recovery": 54.7,
+                "stress": 58.2
+            },
+            "level": "strong"
+        },
+        {
+            "id": "788d039a-fd91-4f71-b492-ee298b329b07",
+            "day": "2026-07-14",
+            "contributors": {
+                "sleep_recovery": 58.4,
+                "daytime_recovery": 52.0,
+                "stress": 55.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "dfc0a13c-9304-4515-97a5-ee4f5279a265",
+            "day": "2026-07-18",
+            "contributors": {
+                "sleep_recovery": 56.5,
+                "daytime_recovery": 50.3,
+                "stress": 56.7
+            },
+            "level": "solid"
+        },
+        {
+            "id": "0d376cfc-c1f1-4411-864d-712ebbaf69eb",
+            "day": "2026-07-19",
+            "contributors": {
+                "sleep_recovery": 53.7,
+                "daytime_recovery": 48.1,
+                "stress": 58.2
+            },
+            "level": "solid"
+        },
+        {
+            "id": "d01f0fb1-3bf4-4606-8da1-e3d27564f82a",
+            "day": "2026-07-20",
+            "contributors": {
+                "sleep_recovery": 52.6,
+                "daytime_recovery": 47.2,
+                "stress": 59.6
+            },
+            "level": "solid"
+        }
+    ]
+}

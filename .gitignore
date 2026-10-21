@@ -8,3 +8,6 @@ __pycache__/
 *.pyc
 .env
 .ipynb_checkpoints
+source_data/oura_oauth.json
+source_data/oura_oauth_jh.json
+source_data/oura_token.txt
